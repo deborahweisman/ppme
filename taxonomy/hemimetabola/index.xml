@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Hemimetabola on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/taxonomy/hemimetabola/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Tue, 16 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Aleurothrixus floccosus</title>
+      <link>http://localhost:1313/pest/aleurothrixus_floccosus</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aleurothrixus_floccosus</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aleurothrixus floccosus&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Maskell)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;entry/Aleyrodidae&#34;&gt;Aleyrodidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Woolly whitefly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: The pest, which is of Asian origin, has spread to Central and North America and then to the Mediterranean region. In Israel it has been present since the early 1990’s. Commonwealth Institute of Entomology Maps #327, 1997 (revised).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The woolly whitefly is approximately 1.5 mm in length, with a yellow-white body and wings that are covered with a white waxy powder. The legless &lt;a href=&#34;entry/Nymph&#34;&gt;nymphs&lt;/a&gt; are initially green, later becoming brownish. The pupa is covered by very conspicuous waxy (“woolly”) filaments (&lt;a href=&#34;figures/AleurothrixusFloccosus-Fig1&#34;&gt;Figure 1&lt;/a&gt;)&lt;/p&gt;
+
+&lt;figure &gt;
+    &lt;div&gt;
+    
+        &lt;img src=&#34;static/figures/AleurothrixusFlococcus-adult-and-larvae-fs.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption &gt;
+        &lt;p&gt;Figure 1: A colony of Aleurothrixus floccosus on a citrus leaf.&lt;/p&gt;
+        
+    &lt;/figcaption&gt;
+    
+    &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: Plants in about 20 families; &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; is the main crop affected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The damage of the woolly whitefly to citrus is mostly due to the large amounts of &lt;a href=&#34;entry/Honeydew&#34;&gt;honeydew&lt;/a&gt; excreted by the nymphs. This honeydew serves as substrate for &lt;a href=&#34;entry/Sooty_mold&#34;&gt;sooty mold&lt;/a&gt; fungi whose dark layers interfere with leaf &lt;a href=&#34;entry/Photosynthesis&#34;&gt;photosynthesis&lt;/a&gt; and thus with tree growth and performance. During heavy infestations the leaves attain a white-black appearance (Figure2),
+ due to the intermittent occurrence of adults and sooty mold.&lt;/p&gt;
+
+&lt;figure &gt;
+    &lt;div&gt;
+    
+        &lt;img src=&#34;static/figures/AleurothrixusFloccosus-Fig2.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption &gt;
+        &lt;p&gt;Figure 2: Citrus leaves heavily infested by the woolly whitefly.&lt;/p&gt;
+        
+    &lt;/figcaption&gt;
+    
+    &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: Woolly whiteflies deposit their eggs, which are often placed in a circle or a semi-circle, into the underside of young, fully-extended leaves, usually in the inner regions of the trees. In the Mediterranean area the pest completes 5-6 annual generations, its numbers peaking during mid-summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sampling&lt;/strong&gt;: An index of occupation (from 0 to 10) was linearly related to the proportion of leaf undersurface occupied by the pest, thus being a reliable and time-saving sampling method. Examining 150 leaves achieves the desired the relative variation level of 0.25 for most population densities found in Spanish commercial citrus groves.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: The pest is usually controlled by the introduced &lt;a href=&#34;entry/Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt; &lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoid&lt;/a&gt; &lt;em&gt;Cales noacki&lt;/em&gt; &lt;code&gt;Howard&lt;/code&gt; (&lt;a href=&#34;entry/Ephelinidae&#34;&gt;Aphelinidae&lt;/a&gt;). Another important natural enemy is the &lt;a href=&#34;entry/Coccinellidae&#34;&gt;coccinellid&lt;/a&gt; &lt;a href=&#34;entry/Coleoptera&#34;&gt;beetle&lt;/a&gt; &lt;em&gt;Delphastus pusilus&lt;/em&gt; &lt;code&gt;Le Conte&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Argov, Y. 1994. The woolly whitefly, a new pest in Israel. &lt;em&gt;Alon Ha’notea&lt;/em&gt;
+48: 290-292 (in Hebrew with an English abstract).&lt;/p&gt;
+
+&lt;p&gt;Soto, A., Ohlenschlaeger, F. and Garcia-Mari, F. 2002. Distribution and
+sampling of the whiteflies &lt;em&gt;Aleurothrixus floccosus, Dialeurodes citri _and&lt;/em&gt;
+Parabemisia myricae &lt;em&gt;(Homoptera : Aleyrodidae) in citrus in Spain.&lt;/em&gt; &lt;em&gt;Journal of
+Economic Entomology&lt;/em&gt; 95: 167-173.&lt;/p&gt;
+
+&lt;p&gt;Ulusoy M.R., Vatansever, G., Erkilic, L. and Uygun, N. 2003. Studies on
+&lt;em&gt;Aleurothrixus floccosus _(Maskell) (Homoptera, Aleyrodidae) and its
+parasitoid,&lt;/em&gt; Cales noacki &lt;em&gt;Howard (Hymenoptera, Aphelinidae) in the East
+Mediterranean region of Turkey.&lt;/em&gt;   &lt;em&gt;Anzeiger für Schadlingskunde&lt;/em&gt; 76:
+163-169.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;: &lt;a href=&#34;http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aleflo.htm&#34;&gt; http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aleflo.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+
+**Insert A Name Of A Person To Contact:  [Insert Again The Same E-mail Address](mailto:Insert E-mail Address Of That Person)**
+
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Anacridium aegyptium</title>
+      <link>http://localhost:1313/pest/anacridium_aegyptium</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/anacridium_aegyptium</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Anacridium aegyptium&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(L)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;Taxonomy:   Insecta,  &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt; ,  &lt;a href=&#34;entry/Orthoptera&#34;&gt;Orthoptera&lt;/a&gt;  &lt;a href=&#34;entry/Acridoidea&#34;&gt;Acridoidea&lt;/a&gt;,  Acrididae Cyrtacanthacridinae&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;Common name: Egyptian tree locust.&lt;/h3&gt;
+
+&lt;p&gt;(Click on image to enlarge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution:&lt;/strong&gt; The Egyptian tree locust occurs in all countries that border the Mediterranean and that are included in this compendium, and eastwards into Pakistan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants:&lt;/strong&gt; This &lt;a href=&#34;entry/Polyphagous&#34;&gt;polyphagous&lt;/a&gt; feeds on grapevines in enclosed facilities as well as on the foliage of &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; and deciduous orchard trees, and on vegetables, but rarely on graminaceous plants.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance:&lt;/strong&gt; &lt;em&gt;Anacridium aegyptium&lt;/em&gt; is generally regarded as a minor pest, but may occasionally be found in sufficient density to cause local damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology:&lt;/strong&gt; The Egyptian tree locust is a large grasshopper. At rest, the adult female body, including the folded &lt;a href=&#34;entry/Tegmina&#34;&gt;tegmina&lt;/a&gt;, is up to 90 mm in length, while the male measures up to 65 mm. The mottled tegmina project beyond the end of the abdomen. Adults are grey-brown in color. The hind wings are transparent and have a purplish cast, and a curved band of darker aspect runs diagonally across them. A dull yellow line runs dorsally along the crest of the pronotum. The hind tibial spines are basally pale and apically dark-tipped. The juveniles are greenish.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle:&lt;/strong&gt; The pest establishes one generation per year. The adult female undergoes a photoperiod-controlled reproductive &lt;a href=&#34;entry/Diapause&#34;&gt;diapause&lt;/a&gt; that lasts from September to January, and deposits eggs in the spring. Juveniles develop during the hot season, from April to August, with new adults appearing near the end of the summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management:&lt;/strong&gt; In most cases, control measures are not indicated for the occasional locust adults encountered. Because of their habit of roosting in trees, markedly during the winter diapause, it is not practical to control these pests with poisoned bait. If necessary, baits should be used against the juveniles during their development in the summer. Chemical control measures being developed against &lt;a href=&#34;pest/Locusta_migratoria&#34;&gt;migratory locusts&lt;/a&gt; may be appropriate for control of these large grasshoppers.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_2&#34;&gt;References&lt;/h3&gt;
+
+&lt;p&gt;Anonymous 1982. &lt;em&gt;The Locust and Grasshopper Agricultural Manual.&lt;/em&gt; Centre for Overseas Pest research, London.&lt;/p&gt;
+
+&lt;p&gt;Fishelson, L. 1985. &lt;em&gt;Orthoptera: Acridoidea&lt;/em&gt;, in: Fauna Palaestina, Insecta III. The Israel Academy of Sciences and Humanities, Jerusalem.&lt;/p&gt;
+
+&lt;p&gt;Geldiay, S. 1967. Hormonal control of adult reproductive diapause in the Egyptian grasshopper, &lt;em&gt;Anacridium aegyptium&lt;/em&gt; L. &lt;em&gt;Journal of Endocrinology&lt;/em&gt; 37:63-71.&lt;/p&gt;
+
+&lt;p&gt;Geldiay, S. 1970. Photoperiodic control of neurosecretory cells in the brain of the Egyptian grasshopper, &lt;em&gt;Anacridium aegyptium&lt;/em&gt; L. &lt;em&gt;General and Comparative Endocrinology&lt;/em&gt; 14:35-42.&lt;/p&gt;
+
+&lt;h3 id=&#34;toc_3&#34;&gt;Websites:&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dpw.wageningen-ur.nl/locust/loclit/species.htm#Near%20East&#34;&gt;http://www.dpw.wageningen-ur.nl/locust/loclit/species.htm#Near%20East&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://locust.cirad.fr/omm/ana_en.html&#34;&gt;http://locust.cirad.fr/omm/ana_en.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+Insert A Name Of A Person To Contact: Insert Again The Same E-mail Address
+--&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Antonina graminis</title>
+      <link>http://localhost:1313/pest/antonina_graminis</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/antonina_graminis</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Antonina graminis&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Maskell)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing:&lt;/strong&gt; Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;entry/Coccoidea&#34;&gt;Coccoidea,&lt;/a&gt; &lt;a href=&#34;entry/Pseudococcidae&#34;&gt;Pseudococcidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common Name&lt;/strong&gt;:  Rhodesgrass scale&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;:  Rhodesgrass scale occurs in tropical and subtropical regions, approximately bounded by the 32nd parallel. The pest was first found in the Middle East in the late 1960s. Commonwealth Institute of Entomology Map #216, 1966.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;:  About 100 species of grasses (Gramineae), including many pasture grasses.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;:  Damage [especially to rhodesgrass, &lt;em&gt;Chloris gayana&lt;/em&gt; &lt;code&gt;Kunth&lt;/code&gt;, and to bermudagrass, &lt;em&gt;Cynodon dactylon&lt;/em&gt; &lt;code&gt;(L.)&lt;/code&gt;] is due to the removal of plant sap. Infested plants turn yellow and shrivel. Injury may be compounded by plant stress factors, such as drought, irrigation by low-grade water, close mowing (of lawns and golf courses) and by overgrazing. Infested pastures, unless treated, decline and dry up within 2-4 years.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The female is legless, with short, 2-segmented antennae. The body is dark-red and becomes darker as the scale matures. The &lt;a href=&#34;entry/Spiracles&#34;&gt;spiracles&lt;/a&gt; are large, with many surrounding &lt;a href=&#34;entry/Pores&#34;&gt;pores&lt;/a&gt;. &lt;a href=&#34;entry/Cerarii&#34;&gt;Cerarii&lt;/a&gt; absent, &lt;a href=&#34;entry/Anal_Ring&#34;&gt;anal ring&lt;/a&gt; somewhat retracted from posterior end of the body. The female is totally enclosed within a white waxy sac, and produces a long, anal waxy excretory tube or stalk, used to excrete its &lt;a href=&#34;entry/Honeydew&#34;&gt;honeydew&lt;/a&gt; away from the body.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;:  Reproduction is by &lt;a href=&#34;entry/Parthenogenesis&#34;&gt;parthenogenesis&lt;/a&gt;, each female giving birth to about 150 &lt;a href=&#34;entry/Crawler&#34;&gt;crawlers&lt;/a&gt;. They usually settle at the lower nodes or crowns of grasses, between leaf sheaths, where they feed and produce their excretory stalk. A generation requires about 10 weeks, development being continuous throughout the year except during very cold or very hot periods. Dispersal may be by human transport of infested grasses, by the movement of the crawlers or by being borne on winds. Ants may be associated with these pests.&lt;/p&gt;
+
+&lt;p&gt;Non-feeding females live for at least five weeks and continue to produce young
+for much of that period, an attribute that has been used for the mass rearing
+of its natural enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sampling&lt;/strong&gt;: Population size can be estimated by collecting 10 rhodesgrass runners, each with at least 10 nodes, from different parts of a field and counting the number of scales that had settled thereon. Best (most uniform) results are obtained from nodes that have not yet taken root. In addition, data from these nodes provide a better indication of recent changes in the pest&amp;rsquo;s population, whereas older nodes could have been colonized for longer periods.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cultural control&lt;/strong&gt;:  Improvements of plant condition by better irrigation, by fertilization and by moderate grazing and mowing. &lt;a href=&#34;entry/Resistance&#34;&gt;Resistant&lt;/a&gt; rhodesgrass varieties are also available.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: &lt;a href=&#34;entry/Systemic&#34;&gt;Systemic&lt;/a&gt; &lt;a href=&#34;entry/Organophosphate&#34;&gt;organophosphates&lt;/a&gt; may provide satisfactory control, but their use (in granulated formulations) is limited to small areas, like golf courses. The cost of applying such pesticides to rangelands is prohibitive.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_Control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: The
+&lt;a href=&#34;entry/Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt;
+&lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoid&lt;/a&gt; &lt;a href=&#34;enemy/Neodusmetia_sangwani&#34;&gt;&lt;em&gt;Neodusmetia sangwani&lt;/em&gt;
+&lt;/a&gt; &lt;code&gt;(Rao)&lt;/code&gt; (&lt;a href=&#34;entry/Encyrtidae&#34;&gt;Encyrtidae&lt;/a&gt;),
+of Indian provenance, was introduced into Israel in 1971, mass-reared on
+field-collected &lt;em&gt;A. graminis&lt;/em&gt; and released at several rhodesgrass plots.
+Parasitization rates are very high and at present the pest has almost totally
+disappeared.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Chada, H.L. and Wood, E.A., Jr. 1960. Biology and control of the rhodesgrass
+scale. &lt;em&gt;United States Department of Agriculture, Technical Bulletin&lt;/em&gt; #
+&lt;strong&gt;1221&lt;/strong&gt;, pp. 21.&lt;/p&gt;
+
+&lt;p&gt;Gerson, U., E. Mescheloff and E. Dubitzki. 1975. The introduction of
+&lt;em&gt;Neodusmetia sangwani&lt;/em&gt; (Rao) (Hymenoptera: Encyrtidae) into Israel for the
+control of rhodesgrass scale, &lt;em&gt;Antonina graminis&lt;/em&gt; (Maskell) (Homoptera:
+Pseudococcidae). &lt;em&gt;Journal of Applied Ecology&lt;/em&gt; &lt;strong&gt;12&lt;/strong&gt;:  767-779.&lt;/p&gt;
+
+&lt;p&gt;Schuster, M.F. 1967. Response of forage grasses to rhodesgrass scale. &lt;em&gt;Journal
+of Range Management&lt;/em&gt; &lt;strong&gt;20&lt;/strong&gt;:  307-309.&lt;/p&gt;
+
+&lt;p&gt;Schuster, M.F. and Bolling, J.C. 1971. Biological control of rhodesgrass scale
+in Texas by &lt;em&gt;Neodusmetia sangwani&lt;/em&gt; (Rao). Effectiveness and colonization
+studies. &lt;em&gt;Texas Agricultural Experiment Station&lt;/em&gt;, &lt;strong&gt;B1104&lt;/strong&gt;:  1-15.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://images.google.com/images?hl=en&amp;amp;lr=&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&amp;amp;q=Antonina+graminis&amp;amp;sa=N&amp;amp;tab=wi&#34;&gt;http://images.google.com/images?hl=en&amp;amp;lr=&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&amp;amp;q=Antonina+graminis&amp;amp;sa=N&amp;amp;tab=wi&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ces.ncsu.edu/depts/ent/notes/O&amp;amp;T/lawn/note127/note127.html&#34;&gt;http://www.ces.ncsu.edu/depts/ent/notes/O&amp;amp;T/lawn/note127/note127.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aonidiella aurantii</title>
+      <link>http://localhost:1313/pest/aonidiella_aurantii</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aonidiella_aurantii</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aonidiella aurantii&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Maskell)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;entry/occoidea&#34;&gt;Coccoidea&lt;/a&gt;, &lt;a href=&#34;entry/Diaspididae&#34;&gt;Diaspididae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: California red scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;thumbnails/AonidiellaAurantii-sm.jpg&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Outdoors in most tropical and subtropical regions of the world; within greenhouses in cooler areas. Commonwealth Institute of Entomology Map #2, 1996 (revised).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;:  Polyphagous; a pest mainly of &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt;, rarely also of roses.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;:  The California red scale, a major pest of citrus throughout the world, attacks all above-ground parts of the trees. On trunks of young trees the scale may form thick incrustations, and also infests the leaves and fruit. At feeding the pest injects toxins into the leaves, which causes them to yellow and drop. Heavy defoliation retards and stunts tree growth, affecting the yield; young trees are mostly at risk. Although scales that settle on young fruit in the early summer often die, but the pit that remains around them detracts from their market value. Large numbers of scales on the face of the fruit (Figure 1), which are difficult to remove even by &lt;a href=&#34;entry/DescalingMachines&#34;&gt;descaling machines&lt;/a&gt;, further reduce the fruits&amp;rsquo; value.&lt;/p&gt;
+
+&lt;figure class=&#34;fig60p&#34;&gt;
+    &lt;div&gt;
+    
+        &lt;img src=&#34;static/figures/AonidiellaAurantii-on-lemon-fs.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption class=&#34;fig60p&#34;&gt;
+        &lt;p&gt;Figure 1: Aonidiella aurantii on lemon&lt;/p&gt;
+        
+    &lt;/figcaption&gt;
+    
+    &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;On rose bushes that are more than three years old the scale settles on the
+wooden or even green branches, leading to their die back, general plant
+weakening and even death. Attack is more common on greenhouse roses.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;:  The dorsal &lt;a href=&#34;entry/Macroducts&#34;&gt;macroducts&lt;/a&gt; are one-barred, slender, 5-6 on each side of the &lt;a href=&#34;entry/Pygidium&#34;&gt;pygidium&lt;/a&gt;, none on the pre-pygidial segments. The body of the female is initially yellow, pear-shaped, later brown-red, round, almost square. After mating the fused &lt;a href=&#34;entry/Prosoma&#34;&gt;prosoma&lt;/a&gt; and thorax become heavily sclerotized, strongly reniform, expanding around the pygidium. The entire body adheres to the shield and cannot be separated. The pygidium bears three large &lt;a href=&#34;entry/Lobes&#34;&gt;lobes&lt;/a&gt;, all externally notched, the fourth lobe appearing as a mere point. Four club-like processes (&lt;a href=&#34;entry/Paraphyses&#34;&gt;paraphyses&lt;/a&gt;) arise from the lobes on either side of the pygidium, and the anus is located halfway between the median lobes and the vagina. There are no &lt;a href=&#34;entry/Perivulvar_Pores&#34;&gt;perivulvar pores.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;entry/Shield&#34;&gt;shield&lt;/a&gt; is about 2.0 mm in diameter, thin and
+almost transparent, brownish, round and slightly convex, the darker juvenile
+exuviae at center. The ventral &lt;a href=&#34;entry/Exuvium&#34;&gt;exuvium&lt;/a&gt; (&amp;ldquo;velum&amp;rdquo;) is
+retained as a thin membrane. The winged males are pale-orange, their dark
+shields are oval and the exuvium of the 1st instar placed near one end.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: The California red scale is &lt;a href=&#34;entry/Viviparous&#34;&gt;viviparous&lt;/a&gt;, giving birth to &lt;a href=&#34;entry/Crawler&#34;&gt;crawlers&lt;/a&gt;. The emergence of the crawlers is affected by temperature and light. They emerge mostly in the morning hours, when temperatures rise above 12°C, but not in the dark at low temperatures. Under warmer conditions they emerge also in the dark, mostly during a few morning hours. The pest annually raises four generations along the coastal plain of Israel, peaks in crawler production occurring in February, June, September and October. In warmer regions it may raise another 1-2 generations. The populations of the pest have two yearly peaks, attaining their numerical maximum in the autumn, dropping during winter and spring, increasing in mid-summer to decline again in late summer to peak in the autumn. The settlement sites of the crawlers seem to be determined by a compromise between being phototactic and being very sensitive to low relative humidity. Along the coastal plain, where humidity may be quite high, the scale prefers to settle on young citrus trees or on the outer rows of mature orchards, being rare within dense plantations. But in the inner, warmer and drier parts of Israel the scale is more abundant within trees, where humidity is somewhat higher. Crawlers prefer to settle on citrus species and varieties that have relatively few oil glands (sour orange, &lt;em&gt;Citrus aurantium&lt;/em&gt;) as compared to those with abundant oil glands (mandarine, &lt;em&gt;Citrus reticulata&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;entry/Threshold_Of_Development&#34;&gt;threshold of development&lt;/a&gt; was
+calculated to be 11°C and 825 &lt;a href=&#34;entry/Days_Degrees&#34;&gt;days-degrees&lt;/a&gt; were
+required for one generation. The optimal conditions for development seem to be
+24°C and air humidity of above 60%. The fecundity of the scale is affected by
+the season and by the host plant. An average of 220 offspring was produced on
+lemon fruit in the spring, 108 in the summer and only 38 on the same host in
+autumn. On citrus leaves fecundity came to 19 progeny in the spring, 80 in the
+summer and 44 in the autumn.&lt;/p&gt;
+
+&lt;p&gt;The crawlers (and males) may be dispersed by winds to a distance of over 300
+m, their numbers decreasing with increasing distance from the source. The
+wind-borne crawlers, which appear to be relatively tolerant to desiccation,
+then establish new colonies. Mature females may also be dispersed by winds.&lt;/p&gt;
+
+&lt;p&gt;California red scale females produce a sex
+&lt;a href=&#34;entry/Pheromone&#34;&gt;pheromone&lt;/a&gt; that attracts the short-lived males. This
+pheromone has been synthesized and, impregnated onto yellow cards, was at one
+time used for monitoring the periods of mass male flights and hence of
+subsequent crawler emergence.&lt;/p&gt;
+
+&lt;p&gt;California red scale may be mass-reared on green lemons, banana squash fruit
+or on potato tubers. Individual scales may be reared on disks of lemon leaves
+floating on water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mechanical control&lt;/strong&gt;:  The pest, unless it infests the fruit in very high numbers, can be removed with high-pressure descaling machines that dislodge the scales.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Mating disruption&lt;/strong&gt;:  Isolation of the sex &lt;a href=&#34;entry/Pheromone&#34;&gt;pheromone&lt;/a&gt; of the California red scale led to efforts to disrupt its mating, efforts that were later abandoned.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;:  On citrus the pest can be controlled with white &lt;a href=&#34;entry/White_Oils&#34;&gt;white oils&lt;/a&gt; or with &lt;a href=&#34;entry/Organophosphate&#34;&gt;organophosphate&lt;/a&gt;s, applied against the crawlers, which are the most susceptible stage, in the spring. In recent years the pest has developed widespread &lt;a href=&#34;entry/ResistanceToPesticides&#34;&gt;resistance&lt;/a&gt; to organophosphates, whose use has been discontinued. A single application of the &lt;a href=&#34;entry/Insect_Growth_Regulators&#34;&gt;insect growth regulator&lt;/a&gt; Tiger (pyriproxyfen) currently controls the pest for two years in Israel, whereas in Turkey one or two (in the spring and in the fall) oil treatments suffice. If windbreak trees (e.g. cypress) are also infested, they too should be sprayed. On roses organophosphates (such as azinophos-methyl or malathion), applied four times at monthly intervals during winter, provided full pest control.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_Control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;:  The California red scale is controlled (unless disrupted by pesticides) by a suite of &lt;a href=&#34;entry/Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt; &lt;a href=&#34;entry/Aphelinidae&#34;&gt;aphelinid&lt;/a&gt; parasitoids. In mild and humid regions these include the &lt;a href=&#34;entry/Ectoparasitoid&#34;&gt;ectoparasitoids&lt;/a&gt; &lt;a href=&#34;enemy/Aphytis_chrysomphali&#34;&gt;&lt;em&gt;Aphytis chrysomphali&lt;/em&gt;&lt;/a&gt; &lt;code&gt;(Mercet)&lt;/code&gt; and &lt;a href=&#34;enemy/Aphytis_lingnanensis&#34;&gt;&lt;em&gt;Aphytis lingnanensis&lt;/em&gt;&lt;/a&gt; &lt;code&gt;Compere&lt;/code&gt;, whereas in more arid areas &lt;a href=&#34;enemy/Aphytis_melinus&#34;&gt;&lt;em&gt;Aphytis melinus&lt;/em&gt;&lt;/a&gt; &lt;code&gt;DeBach&lt;/code&gt; (the dominant species in Turkey) and &lt;a href=&#34;enemy/AphytisCoheni&#34;&gt;&lt;em&gt;Aphytis coheni&lt;/em&gt;&lt;/a&gt; &lt;code&gt;DeBach&lt;/code&gt; may be found. The &lt;a href=&#34;entry/Encyrtidae&#34;&gt;encyrtid&lt;/a&gt; &lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoid&lt;/a&gt; &lt;a href=&#34;enemy/Comperiella_bifasciata&#34;&gt;&lt;em&gt;Comperiella bifasciata&lt;/em&gt;&lt;/a&gt; &lt;code&gt;Howard&lt;/code&gt; has recently been introduced into and became established in Cyprus. The &lt;a href=&#34;entry/Coccinellidae&#34;&gt;coccinellid&lt;/a&gt; beetle &lt;a href=&#34;enemy/Chilocorus_bipustulatus&#34;&gt;&lt;em&gt;Chilocorus bipustulatus&lt;/em&gt;&lt;/a&gt; &lt;code&gt;(L.)&lt;/code&gt; is a major predator.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Kehat, M. and Greenberg, S. 1968. Trials in the control of &lt;em&gt;Aonidiella
+aurantii&lt;/em&gt; Mask. On greenhouse roses. &lt;em&gt;Israel Journal of Agricultural Research&lt;/em&gt;
+&lt;strong&gt;18&lt;/strong&gt;: 25-30.&lt;/p&gt;
+
+&lt;p&gt;Levitin, E. and Cohen, E. 1998. The involvement of acetylcholinesterase in
+resistance of the California red scale &lt;em&gt;Aonidiella aurantii&lt;/em&gt; to
+organophosphorus pesticides. &lt;em&gt;Entomologia Experimentalis et Applicata&lt;/em&gt; &lt;strong&gt;88&lt;/strong&gt;:
+ 115-121.&lt;/p&gt;
+
+&lt;p&gt;Orphanides, G.M. 1996. Establishment of &lt;em&gt;Comperiella bifasciata&lt;/em&gt; (Hym:
+Encyrtidae) on &lt;em&gt;Aonidiella aurantii&lt;/em&gt; (Hom: Diaspididae) in Cyprus.
+&lt;em&gt;Entomophaga&lt;/em&gt; &lt;strong&gt;41&lt;/strong&gt;:  53-57.&lt;/p&gt;
+
+&lt;p&gt;Peleg, B.A. and Bar-Zakay, I. 1995. The pest status of citrus scale insects in
+Israel (1984-1994). &lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;29&lt;/strong&gt;:  261-264.&lt;/p&gt;
+
+&lt;p&gt;Uygun, N., Karaca, I. and Sekeroglu, E. 1995. Population dynamics of
+&lt;em&gt;Aonidiella aurantii&lt;/em&gt; (Maskell) (Homoptera: Diaspididae) and its natural
+enemies on citrus in the Mediterranean region of Turkey from 1976 to 1993.
+&lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;29&lt;/strong&gt;: 239-246.&lt;/p&gt;
+
+&lt;p&gt;Willard, J.R. 1972. The rhythm of emergence of crawlers of California red
+scale, &lt;em&gt;Aonidiella aurantii&lt;/em&gt; &lt;code&gt;(Mask.)&lt;/code&gt;, (Homoptera: Diaspididae). &lt;em&gt;Australian
+Journal of Zoology&lt;/em&gt; &lt;strong&gt;20&lt;/strong&gt;: 49-65.&lt;/p&gt;
+
+&lt;p&gt;Willard, J.R. 1974. Horizontal and vertical distribution of California red
+scale, &lt;em&gt;Aonidiella aurantii&lt;/em&gt; &lt;code&gt;(Mask.)&lt;/code&gt;, (Homoptera: Diaspididae) in the field.
+&lt;em&gt;Australian Journal of Zoology&lt;/em&gt; &lt;strong&gt;22&lt;/strong&gt;, 531-548.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aonaur.htm&#34;&gt;http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aonaur.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aonidiella orientalis</title>
+      <link>http://localhost:1313/pest/aonidiella_orientalis</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aonidiella_orientalis</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aonidiella orientalis&lt;/em&gt; (Newstead)&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;Coccoidea&#34;&gt;Coccoidea&lt;/a&gt;, &lt;a href=&#34;Diaspididae&#34;&gt;Diaspididae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Oriental red scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;:  South-East Asia, Australia, parts of Africa, Central America, Middle East. In Israel since 1980, now found in most mango-growing regions. Commonwealth Institute of Entomology Map #386, 1978.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;:  A pest of many crops, including &lt;a href=&#34;crop/Avocado&#34;&gt;avocado&lt;/a&gt;, &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt;, coconut, papaya and tea. In Israel &lt;em&gt;A. orientalis&lt;/em&gt; is a minor pest of &lt;a href=&#34;crop/Mango&#34;&gt;mango&lt;/a&gt;, settling on the leaves and twigs. The feeding sites on the fruit remain green even after color break, reducing their market value.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;:  Very polyphagous.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;:  The dorsal &lt;a href=&#34;entry/Macroducts&#34;&gt;macroducts&lt;/a&gt; are one-barred, slender, usually three on each side of the &lt;a href=&#34;entry/Pygidium&#34;&gt;pygidium&lt;/a&gt;. The pre-pygidial abdominal segments carry clusters of &lt;a href=&#34;entry/Microducts&#34;&gt;microducts&lt;/a&gt;. The female is rounded, initially yellow, later turning brown-red. After mating the fused &lt;a href=&#34;entry/Prosoma&#34;&gt;prosoma&lt;/a&gt; and thorax become sclerotized, except for a central area extending from the pygidium to the mouth parts. The pygidium bears three &lt;a href=&#34;entry/Lobes&#34;&gt;lobes&lt;/a&gt;, the two median lobes externally and internally notched, the third only externally; the fourth lobe occurs as a mere point. The anus is located about two-thirds of the distance between the vulva and the median lobes. Three small &lt;a href=&#34;entry/Paraphyse&#34;&gt;paraphyses&lt;/a&gt; arise near the second and third lobes on either side of the pygidium. The ventral vulva lies between two clusters of about 10 &lt;a href=&#34;entry/PerivulvarPores&#34;&gt;perivulvar pores&lt;/a&gt; on either side, with 1-2 additional pores in front.&lt;/p&gt;
+
+&lt;p&gt;The shield is thick, flat, gray-white to brownish, round, the darker juvenile
+exuviae almost at center. The winged males are pale-orange, their dark shields
+oval, the paler &lt;a href=&#34;entry/Exuvium&#34;&gt;exuvium&lt;/a&gt; of the 1st instar placed
+near one end.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;:  The pest settles on mango leaves, twigs and fruit. Its populations peak in the winter, are low in the spring and increasing during late summer. The scale is more abundant on tree sides not exposed to the prevailing winds.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;: The oriental red scale may be controlled by a mixture of two pesticides, an &lt;a href=&#34;entry/Organophosphate&#34;&gt;organophosphate&lt;/a&gt; and a &lt;a href=&#34;entry/Carbamates&#34;&gt;carbamate&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;BiologicalControl&#34;&gt;Biological control&lt;/a&gt;:&lt;/strong&gt; The oriental red scale is attacked by several &lt;a href=&#34;Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt; &lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoids&lt;/a&gt;, including &lt;a href=&#34;ComperiellaBifasciata&#34;&gt;&lt;em&gt;Comperiella bifasciata&lt;/em&gt;&lt;/a&gt; Howard and &lt;a href=&#34;HabrolepisAspidioti&#34;&gt;&lt;em&gt;Habrolepis aspidioti&lt;/em&gt;&lt;/a&gt; Compere and Annecke, the &lt;a href=&#34;Aphelinidae&#34;&gt;aphelinid&lt;/a&gt; &lt;a href=&#34;entry/Ectoparasitoid&#34;&gt;ectoparasitoids&lt;/a&gt; &lt;a href=&#34;AphytisMelinus&#34;&gt;&lt;em&gt;Aphytis melinus&lt;/em&gt;&lt;/a&gt; DeBach and &lt;a href=&#34;AphytisLingnanensis&#34;&gt;&lt;em&gt;Aphytis lingnanensis&lt;/em&gt;&lt;/a&gt; Compere, and the endoparasitoid &lt;em&gt;Encarsia&lt;/em&gt; sp. It is not clear whether they contribute to the control of the pest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Badawi, A. and Alahmed, A.M. 1990. The population dynamics of the oriental
+scale insect, &lt;em&gt;Aonidiella orientalis&lt;/em&gt; (Newstead) and factors affecting its
+seasonal abundance.  &lt;em&gt;Arab Gulf journal of Scientific Research&lt;/em&gt; &lt;strong&gt;8&lt;/strong&gt;: 81-89.&lt;/p&gt;
+
+&lt;p&gt;Wysoki, M., Ben-Dov, Y., Swirski, E. and Izhar, Y. 1993. The arthropod pests
+of mango in Israel. &lt;em&gt;Acta Horticulturae&lt;/em&gt; &lt;strong&gt;341:&lt;/strong&gt;452-466.&lt;/p&gt;
+
+&lt;p&gt;Wysoki, M., Israeli, Y. and Rosen, D. 1995. The oriental red scale,
+&lt;em&gt;Aonidiella orientalis&lt;/em&gt; (Newstead) (Diaspididae): biology, phenology,
+geographic distribution and natural enemies in Israel. &lt;em&gt;Israel Journal of
+Entomology&lt;/em&gt; &lt;strong&gt;29&lt;/strong&gt;:  267.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dpi.qld.gov.au/horticulture/5353.html&#34;&gt;http://www.dpi.qld.gov.au/horticulture/5353.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aphanostigma piri</title>
+      <link>http://localhost:1313/pest/aphanostigma_piri</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aphanostigma_piri</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aphanostigma piri&lt;/em&gt; &lt;code&gt;(Cholodkovsky)&lt;/code&gt;&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;:  Insecta, &lt;a href=&#34;Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;Aphidoidea&#34;&gt;Aphidoidea&lt;/a&gt;, &lt;a href=&#34;entry/Phylloxeridae&#34;&gt;Phylloxeridae&lt;/a&gt; .&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;:  Pear phylloxera.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Mediterranean region, Crimea, East Asia.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;em&gt;Pyrus communis&lt;/em&gt; (pear), &lt;em&gt;Pyrus syriaca&lt;/em&gt; (Syrian pear).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The pear phylloxera is a major pest of &lt;a href=&#34;crop/Pear&#34;&gt;pears&lt;/a&gt;. Its sucking on the bark results in intensive cracking that can cause the death of branches. Infested buds are destroyed and brown, rotted areas develop around the calyx of affected fruit, which may then drop or be culled during packing. The cultivar “Spadona” is most susceptible.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The body of &lt;a href=&#34;entry/Apterous&#34;&gt;apterous&lt;/a&gt; females is green to yellow, about 0.7-0.9 mm long. No &lt;a href=&#34;entry/Alate&#34;&gt;alate&lt;/a&gt; forms known from the Middle East.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;:  Groups of the pear phylloxera live throughout the year in the crevices of the bark, infesting buds and even the fruit &lt;a href=&#34;entry/Calyx&#34;&gt;calyx&lt;/a&gt;. It reproduces by &lt;a href=&#34;entry/Viviparous&#34;&gt;viviparous&lt;/a&gt; &lt;a href=&#34;entry/Parthenogenesis&#34;&gt;parthenogenesis&lt;/a&gt; around the year, the populations peaking in spring and autumn. Each female can produce 70-150 progeny during its lifetime, which may last 3-4 weeks in summer, 10 weeks in winter. A generation is completed in about two weeks at 30ºC and the &lt;a href=&#34;entry/Threshold_Of_Development&#34;&gt;threshold of development&lt;/a&gt; is around 3.0ºC&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;: Observations of the cracked bark of mature pear trees should commence in May, whereas fruit monitoring is by marking 20 pears per tree and observing their condition till picking.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plant resistance&lt;/strong&gt;:  Some pear cultivars, such as Gentil and Coscia, are little infested by the pest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: Pear phylloxera can be controlled with &lt;a href=&#34;entry/Systemic&#34;&gt;systemic&lt;/a&gt; &lt;a href=&#34;entry/Organophosphate&#34;&gt;organophosphates&lt;/a&gt;, although the pest may be developing &lt;a href=&#34;entry/Resistance_To_Pesticides&#34;&gt;resistance&lt;/a&gt; to this group of pesticides in Israel.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Cheng, M.F. and Yeh, C.C. 1999. Effect of temperature on the development and
+reproduction of &lt;em&gt;Aphanostigma piri&lt;/em&gt; (Cholodkovsky). &lt;em&gt;Chinese Journal of
+Entomology&lt;/em&gt; &lt;strong&gt;12&lt;/strong&gt;:73-80.&lt;/p&gt;
+
+&lt;p&gt;Oppenheim, D. 1994 (Ed.). &lt;em&gt;A Guide to Integrated Pome &lt;/em&gt;_ Pest Management in
+Israel._ Israel Ministry of Agriculture, Extension Service.&lt;/p&gt;
+
+&lt;p&gt;Swirski, E. and Amitai, S. 1999. Annotated list of aphids (Aphidoidea) in
+Israel. &lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;33&lt;/strong&gt;: 1-120.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aphpir.htm&#34;&gt;http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aphpir.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aphis punicae</title>
+      <link>http://localhost:1313/pest/aphis_punicae</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aphis_punicae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aphis punicae&lt;/em&gt;&lt;/strong&gt; Passerini&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;:  Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;,  &lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;entry/Aphidoidea&#34;&gt;Aphidoidea&lt;/a&gt;,  &lt;a href=&#34;entry/Aphididae&#34;&gt; Aphididae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;:  Pomegranate aphid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Around the Mediterranean to Switzerland, Southern Russia to India.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;a href=&#34;crop/Pomegranate&#34;&gt;Pomegranate&lt;/a&gt;, various ornamentals (&lt;em&gt;Duranta&lt;/em&gt;, &lt;em&gt;Plumbago&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The feeding of &lt;em&gt;A. punicae&lt;/em&gt; causes leaf drop, reductions in pomegranate fruit quality and stunts tree growth. The pest’s &lt;a href=&#34;entry/Honeydew&#34;&gt;honeydew&lt;/a&gt; and ensuing &lt;a href=&#34;entry/Sooty_Mold&#34;&gt;sooty mold&lt;/a&gt; enhance these injuries.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The body of the &lt;a href=&#34;entry/Apterous&#34;&gt;apterous&lt;/a&gt; female is light green, including the &lt;a href=&#34;entry/Cauda&#34;&gt;cauda&lt;/a&gt; and &lt;a href=&#34;entry/Siphunculi&#34;&gt;siphunculi&lt;/a&gt;, length of the female body is 1.0-2.0 mm. The head and thorax of &lt;a href=&#34;entry/Alate&#34;&gt;alate&lt;/a&gt; females are dark, as are the siphunculi, whereas the abdomen and cauda are greenish and body length is 1.4-1.9 mm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: On the evergreen &lt;em&gt;Duranta repens&lt;/em&gt; (golden dewdrop) the aphid reproduces by &lt;a href=&#34;entry/Viviparous&#34;&gt;viviparous&lt;/a&gt; &lt;a href=&#34;entry/Parthenogenesis&#34;&gt;parthenogenesis&lt;/a&gt; throughout the year (autoecious cycle). On the deciduous pomegranate, however, sexual forms occur in winter, mate and the females (the “amphigones”) deposit their eggs in the leaf axils. The aphids that emerge in the following spring reproduce by viviparous parthenogenesis till autumn. The pest has spring and autumn population peaks.&lt;/p&gt;
+
+&lt;p&gt;The optimal conditions for the aphid, when reared on pomegranate, are between
+22.5-25ºC, at which temperatures each female produces aboud 30 progeny. The
+&lt;a href=&#34;entry/Threshold_Of_Development&#34;&gt;threshold for development&lt;/a&gt; was
+calculated to be at 11.8ºC.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: This minor pest is susceptible to &lt;a href=&#34;entry/Organophosphate&#34;&gt;organophosphates&lt;/a&gt; that can be applied if needed.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: The pomegranate aphid is attacked by several &lt;a href=&#34;Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt; &lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoids&lt;/a&gt; of the families &lt;a href=&#34;entry/Aphidiidae&#34;&gt;Aphidiidae&lt;/a&gt; (of which the most promising is &lt;em&gt;Lysiphlebus fabarum&lt;/em&gt; (Marshall)) and &lt;a href=&#34;Aphelinidae&#34;&gt;Aphelinidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bayhan, E., Ölmez-Bayhan, S., Ulusoy, M.R. and Brown, J.K. 2005. Effect of
+temperature on the biology of &lt;em&gt;Aphis punicae&lt;/em&gt; (Passerini) (Homoptera:
+Aphididae) on pomegranate. &lt;em&gt;Environmental Entomology&lt;/em&gt; &lt;strong&gt;34&lt;/strong&gt;: 22-26.&lt;/p&gt;
+
+&lt;p&gt;Mescheloff, E. and Rosen, D. 1990. Biosystematic studies on the Aphidiidae of
+Israel (Hymenoptera: Ichneumonoidae). 3. The genera &lt;em&gt;Adialytus&lt;/em&gt; and &lt;em&gt;Lysiphlebus&lt;/em&gt;.  &lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;24&lt;/strong&gt;: 35-50.&lt;/p&gt;
+
+&lt;p&gt;Swirski, E. and Amitai, S. 1999. Annotated list of aphids (Aphidoidea) in
+Israel.  &lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;33&lt;/strong&gt;: 1-120.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.hinduonnet.com/thehindu/2001/04/19/stories/0819042h.htm&#34;&gt;http://www.hinduonnet.com/thehindu/2001/04/19/stories/0819042h.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aphis spiraecola</title>
+      <link>http://localhost:1313/pest/aphis_spiraecola</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aphis_spiraecola</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aphis spiraecola&lt;/em&gt;&lt;/strong&gt; (= &lt;em&gt;citricola&lt;/em&gt;) Patch&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;entry/Aphidoidea&#34;&gt;Aphidoidea&lt;/a&gt;, &lt;a href=&#34;entry/Aphididae&#34;&gt;Aphididae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Spirea aphid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Almost cosmopolitan; in the Middle East since the late 1960’s. Commonwealth Institute of Entomology Map #256, 1969.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants:&lt;/strong&gt; Polyphagous.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The feeding of the spirea aphid on young &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; foliage in the spring causes severe, characteristic curling and deformation of young leaves and twigs. Blossoms and young fruit (especially of soft-skinned varieties) drop prematurely, and the trees may be stunted. The consequences of a secondary, autumnal peak in pest outbreak are usually less severe. In addition, infested trees are contaminated by the the pest&amp;rsquo;s abundant &lt;a href=&#34;entry/Honeydew&#34;&gt;honeydew&lt;/a&gt; and subsequently-developing &lt;a href=&#34;entry/Sooty_Mold&#34;&gt;sooty mold&lt;/a&gt;. The aphid is a vector of the citrus tristeza virus and other plant viruses. Young &lt;a href=&#34;crop/Avocado&#34;&gt;avocado&lt;/a&gt; trees also suffer from the pest, as do peach and &lt;a href=&#34;crop/Apple&#34;&gt;apple&lt;/a&gt; trees, and many ornamentals. On apples &lt;em&gt;Aphis spiraecola&lt;/em&gt; has displaced &lt;em&gt;Aphis pomi&lt;/em&gt; De Geer as the dominant aphid on its leaves. During recent years the injury caused by spirea aphid to citrus seems to have declined in the Middle East&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The body of &lt;a href=&#34;entry/Apterous&#34;&gt;apterous&lt;/a&gt; females is yellow-green, sometimes with a pink hue; the head, &lt;a href=&#34;entry/Siphunculi&#34;&gt;siphunculi&lt;/a&gt; and &lt;a href=&#34;entry/Cauda&#34;&gt;cauda&lt;/a&gt; are brown-black and the length of the body is 1.4-2.1 mm. The head and thorax of &lt;a href=&#34;entry/Alate&#34;&gt;alate&lt;/a&gt; females are brown-black, the abdomen is green and the siphunculi and cauda are dark; body length is 1.4-2.0 mm.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: In the Middle East the spirea aphid reproduces by &lt;a href=&#34;entry/Viviparous&#34;&gt;viviparous&lt;/a&gt; &lt;a href=&#34;entry/Parthenogenesis&#34;&gt;parthenogenesis&lt;/a&gt; throughout the year, each female giving birth to about 60 progeny when feeding on citrus foliage. At 25ºC the pest completes a generation within 7-10 days. The &lt;a href=&#34;entry/Threshold_Of_Development&#34;&gt;threshold of development&lt;/a&gt; is around 2.5ºC, which means that the pest develops during winter and could explain its rapid, almost sudden infestation of citrus groves in early spring. The pest’s departure is also rapid and sudden, possibly due to &lt;a href=&#34;entry/Khamsin&#34;&gt;khamsin&lt;/a&gt; events in early summer. During such events the aphids move from the newly-growing, external parts of the trees to its central area, often dropping to the ground and dying there. Such behavior is exacerbated on parched trees, uncommon on well-irrigated trees.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: Due to the fact that young trees are especially vulnerable to this pest, pest damage can be reduced by spraying only them; such control activities should not be undertaken during khamsins. &lt;a href=&#34;entry/Carbamates&#34;&gt;Carbamates&lt;/a&gt;, some &lt;a href=&#34;entry/Organophosphate&#34;&gt;organophosphates&lt;/a&gt; and &lt;a href=&#34;entry/Acetamiprid&#34;&gt;acetamiprid&lt;/a&gt; control the spirea aphid.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/BiologicalControl&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: The spirea aphid is attacked by predatory &lt;a href=&#34;entry/Cecidomyiidae&#34;&gt;Cecidomyiidae&lt;/a&gt;, &lt;a href=&#34;entry/Chrysopidae&#34;&gt;Chrysopidae&lt;/a&gt;, &lt;a href=&#34;entry/Coccinellidae&#34;&gt;Coccinellidae&lt;/a&gt; and &lt;a href=&#34;entry/Syrphidae&#34;&gt;Syrphidae&lt;/a&gt;. However, due to the pest’s short life cycle and sudden arrival and departure from citrus, these predators have little effect on the aphid’s populations. Some &lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoid&lt;/a&gt; &lt;a href=&#34;Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt; &lt;a href=&#34;entry/Aphidiidae&#34;&gt;Aphidiidae&lt;/a&gt; attack &lt;em&gt;A. spirea&lt;/em&gt;, but seldom complete their development therein; the causative mechanism is unknown. Several &lt;a href=&#34;entry/Entomopathogenic_Fungi&#34;&gt;entomopathogenic fungi&lt;/a&gt; also infect the aphid, but none of these natural enemies appear to reduce the pest’s damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Drishpoun, Y. (Ed.) 2000. &lt;em&gt;A Guide to the Control of Citrus Pests&lt;/em&gt;. Israel
+Ministry of Agriculture Extension Service, Bet Dagan.&lt;/p&gt;
+
+&lt;p&gt;Mescheloff, E. and Rosen, D. 1993. Biosystematic studies on the Aphidiidae of
+Israel (Hymenoptera: Ichneumonoidea). 4. The genera &lt;em&gt;Trioxys&lt;/em&gt; and &lt;em&gt;Binodoxys&lt;/em&gt;.
+&lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;27&lt;/strong&gt;: 31-47.&lt;/p&gt;
+
+&lt;p&gt;Swirski, E. and Amitai, S. 1999. Annotated list of aphids (Aphidoidea) in
+Israel. &lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;33&lt;/strong&gt;: 1-120.&lt;/p&gt;
+
+&lt;p&gt;Wang, J.J. and Tsai, J.H. 2000. Effect of temperature on the biology of &lt;em&gt;Aphis
+spiraecola&lt;/em&gt; (Homoptera: Aphididae). &lt;em&gt;Annals of the Entomological Society of
+America&lt;/em&gt; &lt;strong&gt;93&lt;/strong&gt;: 874-883.&lt;/p&gt;
+
+&lt;p&gt;Zehavi, A. and Rosen, D. 1987. Population trends of the spirea aphid, &lt;em&gt;Aphis
+citricola&lt;/em&gt; van der Goot, in a citrus grove in Israel. &lt;em&gt;Journal of Applied
+Entomology&lt;/em&gt; &lt;strong&gt;104&lt;/strong&gt;: 271-277.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frankliniella occidentalis</title>
+      <link>http://localhost:1313/pest/frankliniella_occidentalis</link>
+      <pubDate>Sun, 07 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/frankliniella_occidentalis</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Frankliniella occidentalis&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Pergande)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Thysanoptera&#34;&gt;Thysanoptera&lt;/a&gt;, &lt;a href=&#34;entry/Terebrantia&#34;&gt;Terebrantia&lt;/a&gt;, &lt;a href=&#34;entry/Thripidae&#34;&gt;Thripidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Western flower thrips (WFT)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographic distribution&lt;/strong&gt;: Worldwide in temperate regions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;a href=&#34;entry/Polyphagous&#34;&gt;Polyphagous&lt;/a&gt;, infesting over 500 different plant species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta: &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Thysanoptera&#34;&gt;Thysanoptera&lt;/a&gt;, &lt;a href=&#34;entry/Terebrantia&#34;&gt;Terebrantia&lt;/a&gt;, &lt;a href=&#34;entry/Thripidae&#34;&gt;Thripidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Western flower thrips (WFT)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographic distribution&lt;/strong&gt;: Worldwide in temperate regions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;a href=&#34;entry/Polyphagous&#34;&gt;Polyphagous&lt;/a&gt;, infesting over 500 different plant species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The pest feeds on and breeds in the leaves and flowers. It punctures them, sucking up the exuding sap. Foliage becomes silvery, followed by browning and wilting and withering of the leaf tips, curling and death. The undersides of leaves are spotted with small black specks, which are feces. Flowers become flecked, spotted, and deformed, and buds do not open. WFT infestations result in reductions of the aesthetic quality and marketability of ornamental plants. The pest transmits two &lt;a href=&#34;entry/Tospovirus&#34;&gt;tospoviruses&lt;/a&gt;, the impatiens necrotic spot virus (INSV) and the tomato spotted wilt virus (TSWV), both causing serious plant diseases. WFT also feeds on spider mites (&lt;a href=&#34;entry/Tetranychidae&#34;&gt;Tetranychidae&lt;/a&gt;) and may sometimes be a useful biocontrol agent.&lt;/p&gt;
+
+&lt;p&gt;Recent molecular studies indicated that WFT consists of two species that cannot be distinguished morphologically, thus the damage described above may be attributed to either, or to both.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The female is about 1 mm long, larger than the male, with pale &lt;a href=&#34;entry/Forewings&#34;&gt;forewings&lt;/a&gt;. The color of the female varies from yellow to dark brown, being darker at low temperatures, yellowish at higher temperatures. The male is always pale yellow and has a narrower &lt;a href=&#34;entry/Abdomen&#34;&gt;abdomen&lt;/a&gt;. The &lt;a href=&#34;entry/Larva&#34;&gt;larvae&lt;/a&gt; are yellow, becoming paler towards molting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life Cycle&lt;/strong&gt;: A life cycle, from oviposition to adult emergence, may require two weeks in warm weather, to about six weeks in cool weather. The adults live for several weeks; the females which are &lt;a href=&#34;entry/Arrhenotokus&#34;&gt;arrhenotokous&lt;/a&gt;, deposit 50-100 eggs during their lives. They develop through two quiescent, non-feeding pupal stages in the soil, in plant litter or in protected areas on the host plant.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;: Two methods are used to monitor thrips:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1. White, yellow or blue sticky traps will attract and trap adults.&lt;/li&gt;
+&lt;li&gt;2. Direct counts in blossoms of fruit crops.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Petunia plants (Petunia x hybrida) are excellent early indicators for WFT presence and for tospoviruses transmission, because petunias are not systemically infected with either virus disease. Presence of silvery leaf scars on other plants is another way of diagnosing WFT presence on plants&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;entry/Resistance&#34;&gt;Plant resistance&lt;/a&gt;&lt;/strong&gt; : Various efforts are underway to develop cucumber and pepper varieties resistant to WFT.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: WFT are difficult to manage with pesticides because they tend to occupy narrow crevices in plant parts, and to feed deep within flowers and buds where they are sheltered from chemicals. Chemical management, mostly with &lt;a href=&#34;entry/Pyrethroid&#34;&gt;pyrethroids&lt;/a&gt; or spinosad (entry/Spinosad), is difficult due to the development of &lt;a href=&#34;entry/Resistance_to_pesticides&#34;&gt;resistance&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_control&#34;&gt;Biological control&lt;/a&gt;: Several predatory mites, especially the &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;phytoseiid&lt;/a&gt; &lt;em&gt;Amblyseius cucumeris&lt;/em&gt; and the &lt;a href=&#34;entry/Ascidae&#34;&gt;ascid&lt;/a&gt; &lt;em&gt;Hypoaspis&lt;/em&gt; have successfully been used to control WFT and are in commerce. Predatory bugs (&lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;),&lt;em&gt;Orius&lt;/em&gt; spp., are also common. Other antagonists assayed against WFT include nematodes, such as the nematode (entry/Entomopathogenic&lt;em&gt;nematodes) _Steinernema feltiae&lt;/em&gt; Filipjev, and &lt;a href=&#34;entry/Entomopathogenic_fungi&#34;&gt;entomopathogenic fungi&lt;/a&gt;, such as &lt;em&gt;Beauveria bassiana&lt;/em&gt; (Bals.-Criv.) Vuill. and &lt;em&gt;Metarhizium anisopliae&lt;/em&gt; (Met.) Sorokin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Bautista, R. C., Mau, R. F. L., Cho, J. J. and Custer, D. M. 1995. Potential of tomato spotted wilt tospovirus plant hosts in Hawaii as virus reservoirs for transmission by &lt;em&gt;Frankliniella occidentalis&lt;/em&gt; (Thysanoptera: Thripidae). &lt;em&gt;Phytopathology&lt;/em&gt; &lt;strong&gt;85&lt;/strong&gt;: 953-958.&lt;/p&gt;
+
+&lt;p&gt;Chambers, R. J., Long, S. and Helyer, B. L. 1993. Effectiveness of &lt;em&gt;Orius laevigatus&lt;/em&gt; (Hem.: Anthocoridae) for the control of &lt;em&gt;Frankliniella occidentalis&lt;/em&gt; on cucumber and pepper in the United Kingdom. &lt;em&gt;Biocontrol Science and Technology&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;: 295-307.&lt;/p&gt;
+
+&lt;p&gt;Chyzik, R., Glazer, I. and Klein, M. 1996. Virulence and efficacy of different entomopathogenic  nematode species against western flower thrips (Frankliniella occidentalis). &lt;em&gt;Phytoparastica&lt;/em&gt; &lt;strong&gt;24&lt;/strong&gt;: 103-110.&lt;/p&gt;
+
+&lt;p&gt;de Kogel, W.J., van der Hoek, M. and Mollema, C. 1997. Variation in performance of western flower thrips populations on susceptible and partially resistant cucumber. &lt;em&gt;Entomologia Experimentalis et Applicata&lt;/em&gt; &lt;strong&gt;83&lt;/strong&gt;: 73-80.&lt;/p&gt;
+
+&lt;p&gt;Fery, R. L. and J. M. Schalk. 1991. Resistance in pepper (&lt;em&gt;Capsicum annuum&lt;/em&gt; L.) to western flower thrips (&lt;em&gt;Frankliniella occidentalis&lt;/em&gt; [Pergande]). &lt;em&gt;HortScience&lt;/em&gt; &lt;strong&gt;26&lt;/strong&gt;: 1073-1074.&lt;/p&gt;
+
+&lt;p&gt;Gao, Y., Lei, Z. and Reitz, S.R. 2012. Western flower thrips resistance to insecticides: detection, mechanisms and management strategies. &lt;em&gt;Pest Management Science&lt;/em&gt; &lt;strong&gt;68&lt;/strong&gt;:1111-1121.&lt;/p&gt;
+
+&lt;p&gt;Kontsedalov, I., Weintraub, P. G., Horowitz, A.R. and. Ishaaya, I. 1998. Effects of insecticides on immature and adult western flower thrips (Thysanoptera: Thripidae) in Israel. &lt;em&gt;Journal of Economic Entomology&lt;/em&gt; &lt;strong&gt;91&lt;/strong&gt;: 1067-1071,&lt;/p&gt;
+
+&lt;p&gt;Montserrat, M., Castañé, C. and Santamaria, S. 1998. &lt;em&gt;Neozygites parvispora&lt;/em&gt; (Zygomycotina: Entomophthorales) causing an epizootic in &lt;em&gt;Frankliniella occidentalis&lt;/em&gt; (Thysanoptera: Thripidae) on cucumber in Spain. &lt;em&gt;Journal of Invertebrate Pathology&lt;/em&gt; &lt;strong&gt;71&lt;/strong&gt;: 165-168.&lt;/p&gt;
+
+&lt;p&gt;Rugman-Jones, P.F., Hoddle, M.S. and Stouthamer. R. 2010.Nuclear-mitochondrial barcoding (NuMB) exposes the global pest Western flower thrips, &lt;em&gt;Frankliniella occidentalis&lt;/em&gt;(Thysanoptera: Thripidae) as two sympatric cryptic species in its native California. &lt;em&gt;Journal of Economic Entomology&lt;/em&gt; &lt;strong&gt;103&lt;/strong&gt;: 30-38.&lt;/p&gt;
+
+&lt;p&gt;Vernon, R.S. and Gillespie, D.R. 1995. Influence of trap shape, size, and background color on captures of &lt;em&gt;Frankliniella occidentalis&lt;/em&gt; (Thysanoptera: Thripidae) in a cucumber greenhouse. &lt;em&gt;Journal of Economic Entomology&lt;/em&gt; &lt;strong&gt;88&lt;/strong&gt;: 288-293.&lt;/p&gt;
+
+&lt;p&gt;Web site:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Western_flower_thrips&#34;&gt;http://en.wikipedia.org/wiki/Western_flower_thrips&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Locusta migratoria</title>
+      <link>http://localhost:1313/pest/locusta_migratoria</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/locusta_migratoria</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Locusta migratoria&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(L.)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;Taxonomy: Insecta, Hemimetabola, Orthoptera, Acridoidea, Acrididae, Oedipodinae.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Migratory locust.&lt;/p&gt;
+
+&lt;p&gt;(Click on image to enlarge)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution:&lt;/strong&gt;  The distribution of &lt;em&gt;L. migratoria&lt;/em&gt; encompasses practically the whole of the temperate and tropical parts of the Eastern Hemisphere, from the Canaries and the Azores in the West to Japan and New Zealand in the East. Commonwealth Institute of Entomology Map.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants:&lt;/strong&gt; The migratory locust prefers gramineous plants, but may feed on a large variety of rangeland flora in its &lt;a href=&#34;entry/Primary_breeding_sites&#34;&gt;primary breeding sites&lt;/a&gt;, or on economic crops, when present in the environment. Leguminous plants are less compatible nutritionally.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance:&lt;/strong&gt; At low population densities, the migratory locust is a minor pest. Although permanently solitariform in the eastern Mediterranean, the behavior of occasional crowded populations is reminiscent of its gregariform subspecies, the African migratory locust, &lt;em&gt;Locusta migratoria migratorioides&lt;/em&gt; &lt;code&gt;(Reiche &amp;amp; Fairmaire)&lt;/code&gt;, with which it can readily hybridize.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology:&lt;/strong&gt; The Egyptian tree locust is a large grasshopper. At rest, the adult female body, including the folded, is up to 90 mm in length, while the male measures up to 65 mm. The mottled tegmina project beyond the end of the abdomen. Adults are grey-brown in color. The hind wings are transparent and have a purplish cast, and a curved band of darker aspect runs diagonally across them. A dull yellow line runs dorsally along the crest of the pronotum. The hind tibial spines are basally pale and apically dark-tipped. The juveniles are greenish.
+ Within this species in its broad distribution, solitariform adults are characterized by a concave pronotum. Their background coloration is cryptic, being green or brown, dependent on levels of ambient humidity. Gregariform adults are much darker. Isolated males are substantially larger than females whereas crowded males are about the same size as the females.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle:&lt;/strong&gt; Within their vast geographic range the populations of the migratory locust exhibit morphological and biological diversity, and the existence of nine subspecies is nowadays accepted; some are economic pests. Populations of L. migratoria that are endemic to temperate climates (some classified as subspecies), undergo embryonic diapause, thus establishing 1-2 annual generations. However, this does not occur in the subtropical Middle East. A non-swarming subspecies, &lt;em&gt;L. m. cinerascens&lt;/em&gt; &lt;code&gt;(Fabricius)&lt;/code&gt;, exists in some of the other countries surrounding the Mediterranean.&lt;/p&gt;
+
+&lt;p&gt;As a rule, the migration of L. migratoria is more limited than that of the desert locust, Schistocerca gregaria (Forskal). Isolated migratory locusts fly at night, whereas crowded adults fly mainly by day. Isolated locusts have 1-2 more larval instars than individuals in crowded populations, but this does not prolong their development, which is more rapid than when crowded. In consequence locusts in crowded populations establish fewer generations.&lt;/p&gt;
+
+&lt;p&gt;Selection favoring non-migratory behavior may occur in localities where emigration is detrimental to survival. Evolution of distinct populations and subspecies with pronounced solitarious phase characteristics would have been favored in such cases. The more isolated and smaller the population and its geographical distribution, the more likely it is to possess unique morphometrics. In Israel, when first recorded in the Jezreel Valley (which is contiguous with the Jordan Valley), L. migratoria was originally described as L. danica, but later determined to be the solitariform of L. migratoria. Its primary breeding sites on the shores of the Sea of Gallilee have since become degraded due to development projects. Some breeding sites may still exist in the Sudano-Deccanian enclave surrounding the Dead Sea. The Jordan Valley, contiguous with the Arava Valley, was originally part of the African Rift Valley and the Israeli population is possibly a relict form of the African migratory locust. The Israeli population of L. migratory does not undergo an overt gregarization, and is permanently solitariform in appearance. This does not mean that crowded populations do not behave like typical gregarious locusts, but only that morphometrically, differences between the two phases is slight. Finally, the Israeli migratory locust population is superficially similar to another population that is established in irrigated localities in central Arabia. Migration along the Arava Valley could connect these two populations but this has not been examined. Solitariform L. migratoria may occur in low numbers on field crops and grasses during summer and autumn in Israel, and disappear in the winter.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management:&lt;/strong&gt; Other than on the rare occasions when population of the migratory locust increases substantially, the solitariform grasshopper does not require special control measures. In its areas of abundance, environmentally compatible control agents, such as the entomopathogenic fungus Metarhizium anisopliae applied in an oil-based formulation, have been tested. IGRs, inhibitors of chitin synthesis, such as Dimilin, prevent normal molting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Heifetz, Y., Applebaum, S.W., and Popov, G.B. 1994. Phase characteristics of the Israeli population of the migratory locust, &lt;em&gt;Locusta migratoria&lt;/em&gt; &lt;code&gt;(L.)&lt;/code&gt; (Orthoptera: Acrididae). &lt;em&gt;Journal of Orthoptera Research&lt;/em&gt; 2: 15-20.&lt;/p&gt;
+
+&lt;p&gt;El-Minshawy, A.M., El-Hinnawy, N.H. et al. 1975. Population fluctuations of grasshoppers and locusts in Alexandria area (Egypt) &lt;em&gt;Bulletin of the Entomological Society of Egypt&lt;/em&gt; 59: 83-98.&lt;/p&gt;
+
+&lt;p&gt;Sanyang, S. and van Emden, H.F. 1996. The combined effects of the fungus Metarhizium flavoviride Gams &amp;amp; Rozsypal and the insecticide cypermethrin on &lt;em&gt;Locusta migratoria migratorioides&lt;/em&gt; (Reiche &amp;amp; Fairmaire) in the laboratory. &lt;em&gt;International Journal of Pest Management&lt;/em&gt; 42: 183-187.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dpw.wageningen-ur.nl/locust/loclit/species.htm#Near%20East&#34;&gt;http://www.dpw.wageningen-ur.nl/locust/loclit/species.htm#Near%20East&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phoenicococcus marlatti</title>
+      <link>http://localhost:1313/pest/phoenicococcus_marlatti</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/phoenicococcus_marlatti</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Phoenicococcus marlatti&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;Cockerell&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;entry/Coccoidea&#34;&gt; Coccoidea&lt;/a&gt;, &lt;a href=&#34;entry/Phoenicococcidae&#34;&gt;Phoenicococcidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Red date scale.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: World-wide, wherever date palms are grown.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: Members of the genus  &lt;em&gt;Phoenix&lt;/em&gt; (palms).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The red date scale is usually regarded as a minor pest, but if it occurs in large numbers on young trees it can retard their growth, causing stunting and even decline. The pest’s feeding on date pinnae causes their wilting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The body of the female is reddish, rounded, slightly pear-shaped, about 1.3 mm in length. It bears a white marginal fringe. The males lack wings.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: The scale apparently raises four annual generations, although its biology has not been studied in the Middle East. It usually infests the bases of the rachis and does not occur on the apices of the pinnae.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;: Due to hiding deep within palm trees, chemical control (if necessary) is not recommended, but sanitation of seedlings during planting may reduce the pest’s populations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Carpenter, J.B. and  Elmer, H.S. 1978. Pests and diseases of the date palm. ARS, USDA Agriculture Handbook, No. 527: 1-42.&lt;/p&gt;
+
+&lt;p&gt;Sinacori, A. 1995. &lt;em&gt;Phoenicococcus marlatti&lt;/em&gt; (&lt;code&gt;Cockerell&lt;/code&gt;) (Homoptera:
+Phoenicococcidae) (on &lt;em&gt;Phoenix&lt;/em&gt;) in Sicily. &lt;em&gt;Phytophaga&lt;/em&gt; &lt;strong&gt;6&lt;/strong&gt;: 55-61.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dip-alicante.es/servdipu/areafome/trabajos/cochinilla/indice5.htm&#34;&gt;http://www.dip-alicante.es/servdipu/areafome/trabajos/cochinilla/indice5.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Schistocerca gregaria</title>
+      <link>http://localhost:1313/pest/schistocerca_gregaria</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/schistocerca_gregaria</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Schistocerca gregaria&lt;/em&gt;&lt;/strong&gt; (Forskal)&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Orthoptera&#34;&gt;Orthoptera&lt;/a&gt;, &lt;a href=&#34;entry/Acridoidea&#34;&gt;Acridoidea&lt;/a&gt;, &lt;a href=&#34;entry/Acrididae&#34;&gt;Acrididae&lt;/a&gt;, Cyrtacanthacridinae.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Desert locust.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: ranging from West Africa, across the Arabian peninsula and most of the Indian sub-continent. In the Mediterranean region: all of northern Africa, the Middle East north to parts of Turkey, Iran and the Central Asian Republics.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: highly &lt;a href=&#34;entry/Polyphagous&#34;&gt;polyphagous&lt;/a&gt;, feeding mainly on a large variety of rangeland shrubs and grasses that grow in primary breeding sites and on economic crops when encountered during pest outbreaks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: Damage caused by the desert locust is a consequence of its polyphagous nature, the density of the population, and its habits to aggregate and swarm. Each individual gregarious locust is able to consume roughly its own weight in foliage daily. This partly explains how dense swarms of adults, or marching bands of &lt;a href=&#34;entry/Nymph&#34;&gt;nymphs&lt;/a&gt;, can inflict considerable injury in a short time. Damage by gregarious swarming populations occurs in cycles, in most cases afflicting economies in fragile ecosystems, least able to sustain biomass reduction or complete crop loss. In the long term, the cumulative damage does not surpass that inflicted by indigenous grasshoppers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: When reared in isolation and consequently &lt;a href=&#34;entry/Solitariform&#34;&gt;solitariform&lt;/a&gt;, locusts exhibit convex &lt;a href=&#34;entry/Pronotum&#34;&gt;pronotal&lt;/a&gt; crests, typical &lt;a href=&#34;entry/Morphometrics&#34;&gt;morphometric&lt;/a&gt; ratios of body measurements, and cryptic green to light-brown coloration usually harmonizing with the color of the immediate environment and affected by humidity. Cuticular accumulation of &lt;a href=&#34;entry/Melanin&#34;&gt;melanin&lt;/a&gt; is markedly reduced. In contrast &lt;a href=&#34;entry/Gregariform&#34;&gt;gregariform&lt;/a&gt; locusts, crowded during rearing, have concave or straight pronota, and are yellow with contrasted melanized and reddish marking. When adult but immature, the background color of both sexes of the desert locust has a pink caste. The mature adult gregariform male is yellowish, progressing to bright yellow, that of females brownish. Solitariform adults retain their green to brown coloration and convex pronota.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: Eggs of the desert locust develop and hatch in about two weeks. Gregariform &lt;a href=&#34;entry/Nymph&#34;&gt;nymphs&lt;/a&gt; pass through five instars before maturing to the adult stage, while solitariform nymphs pass through six instars. Solitariform individuals tend to disperse and exhibit low activity. Gregariform nymphs tend to aggregate, and they are more active than solitariform nymphs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ecology&lt;/strong&gt;: Nymphal development requires about one month under optimal conditions, but may extend for 2-3 months under less favorable conditions. Newly-eclosed adults are reproductively immature. During their pre-reproductive period the adults accumulate reserves in preparation for migration and/or reproduction. Reproductive maturation occurs within about three weeks but may be delayed for many months, in synchrony with the environment. There is evidence that delayed maturation within primary breeding sites is synchronized with rainfall and flowering of desert shrubs.&lt;/p&gt;
+
+&lt;p&gt;During periods of &lt;a href=&#34;entry/Recession&#34;&gt;recession&lt;/a&gt;, desert locusts breed
+in &lt;a href=&#34;entry/Primary_Breeding_Sites&#34;&gt;primary breeding sites&lt;/a&gt;, mainly
+restricted to semi-arid and arid deserts where precipitation is sporadic and
+below 200 mm annually. Rainfall in primary breeding sites initiates seed
+germination. This sequence of events subsequently leads to an increased
+population density. Within 2-3 generations of increasing density,
+transformation to the gregariform &lt;a href=&#34;entry/Phase&#34;&gt;phase&lt;/a&gt; is induced. When these conditions cease, and
+a dry spell occurs, adults swarm gregariously, migrating actively in the
+direction of prevailing winds. In Africa, migration is associated with the
+Inter-Tropical Convergence Zone (ITCZ). When opposing winds meet within this
+zone, high air pressure develops and vertical flow of air occurs. During its
+ascent, air temperature decreases leading to an increase in relative humidity
+and finally to rainfall. The arrival of locust swarms to the convergence zone
+coincides with the occurrence of precipitation and vegetation, encouraging and
+supporting further population growth.&lt;/p&gt;
+
+&lt;p&gt;Females contribute to gregarization by depositing egg pods close to pods that
+are being laid concurrently or have been laid previously. This is due to their
+attraction to ovipositional sites, whether because of suitability of soil,
+moisture and other environmental conditions, or to attraction to an
+oviposition &lt;a href=&#34;entry/Pheromone&#34;&gt;pheromone&lt;/a&gt; with which each female marks the exact
+spot wherein she has deposited eggs. Clutches of eggs are bound together with
+a proteinaceous foam, which is produced in the female genital &lt;a href=&#34;entry/Accessory_Glands&#34;&gt;accessory
+glands&lt;/a&gt;. Solitarious
+females produce and deposit more eggs (60-80) in each clutch than do
+gregarious females (40-60).&lt;/p&gt;
+
+&lt;p&gt;Swarming behavior and migration are not necessarily dependent on gregariform
+phase characteristics of coloration or morphometrics, but are usually
+positively correlated to population density: Gregarious behavior is induced as
+a consequence of interactions among individuals upon crowding, irrespective of
+whether they are initially solitariform or gregariform in coloration and
+morphometrics. Solitarious behavior is conversely expressed when locusts are
+isolated, even when initially gregariform. Solitarious larvae do not
+aggregate, whereas gregarious locusts are marked with bright color patterns,
+tend to aggregate in their nymphal stages and to march together in bands,
+while adults fly in dense and highly mobile swarms. Locust flight is directed
+by prevailing winds. These directions differ from night to day. Locusts ascend
+on thermal currents during the day to considerable heights, where they may
+encounter wind directions differing from those found at lower altitudes.&lt;/p&gt;
+
+&lt;p&gt;The area covered by gregarious locust swarms may range from 1 to 200 square
+kilometers, at a density which is commonly in the range of 100 individual per
+square meter, but under extreme conditions may be one to two orders of
+magnitude greater in density.&lt;/p&gt;
+
+&lt;p&gt;Another characteristic of sustained flight or migration, is that reproduction
+is normally delayed. This may be due to the allocation for flight of limited
+resources in the first case, or allocation of the same resource pool for egg
+development, in the second. This differential allocation of resources is
+termed the &lt;a href=&#34;entry/OocyteFlightSyndrome&#34;&gt;oocyte-flight syndrome&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Control&lt;/strong&gt;: Populations of the Desert Locust are monitored during recession and outbreak by various international agencies. These include the Desert Locust Control Organization (DLCO) of the Food and Agriculture Organization (FAO) of the United Nations. When gregarization commences, outbreak is prevented primarily by chemical control, preferably with less persistent chemicals, such as the &lt;a href=&#34;entry/Pyrethroids&#34;&gt;pyrethroids&lt;/a&gt; fenitrothion and deltamethrin, the &lt;a href=&#34;entry/Insect_Growth_Regulator&#34;&gt;insect growth regulator&lt;/a&gt; (IGR) diflubenzuron, the &lt;a href=&#34;entry/Carbamates&#34;&gt;carbamate&lt;/a&gt; bendiocarb and the &lt;a href=&#34;entry/GABA_Blocker&#34;&gt;GABA-blocker&lt;/a&gt; fipronil. &lt;a href=&#34;entry/Neem&#34;&gt;Neem&lt;/a&gt; seed extracts, whether prepared locally or commercially, are effective as &lt;a href=&#34;entry/Feeding_Deterrent&#34;&gt;feeding deterrents&lt;/a&gt; of the desert locust.&lt;/p&gt;
+
+&lt;p&gt;The best chance to restrict locust outbreak is by careful monitoring and
+control of evolving gregarization. There are several reasons why this is not
+always logistically possible, or indeed efficient. Primarily, this is because
+breeding sites are sporadic and spread over a very wide area, often in remote
+location. Access to many of these sites is difficult, security questionable,
+and resources limited. Finally, the cycles of desert locust outbreaks and
+recessions are extended, and this leads to loss of attention during extended
+recession periods. There is a recurrent debate concerning the long-term
+economic justification of global locust control.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/BiologicalControl&#34;&gt;&lt;strong&gt;Biological Control&lt;/strong&gt;&lt;/a&gt;: Various parasites and
+predators have been reported to attack the different stages of Desert Locust
+development. None are effective in suppressing populations once they have
+gregarized and swarmed. They may contribute to some degree to the collapse of
+locust populations, once the outbreak had peaked. Recent studies with
+preparations of the &lt;a href=&#34;entry/Entomopathogenic_Fungi&#34;&gt;entomopathogenic fungus&lt;/a&gt;
+&lt;em&gt;Metarhizium anisopliae&lt;/em&gt; are encouraging.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;COPR, 1982. &lt;em&gt;The Locust and Grasshopper Agricultural Manual&lt;/em&gt;. London: Centre
+for Overseas Pest Research.&lt;/p&gt;
+
+&lt;p&gt;Fishelson, L. 1985. &lt;em&gt;Orthoptera: Acridoidea. Fauna Palaestina - Insecta III&lt;/em&gt;.
+The Israel Academy of Sciences and Humanities, Jerusalem.&lt;/p&gt;
+
+&lt;p&gt;Uvarov, V.B. 1966. &lt;em&gt;Grasshoppers and Locusts&lt;/em&gt;, Vol. 1, Cambridge: Cambridge
+University Press.&lt;/p&gt;
+
+&lt;p&gt;Uvarov, V.B. 1977. &lt;em&gt;Grasshoppers and Locusts&lt;/em&gt;, Vol. 2, London: Centre for
+Overseas Pest Research.&lt;/p&gt;
+
+&lt;p&gt;Shower, A.T. 1996. &lt;em&gt;The Desert Locust in Africa and Western Asia: Complexities
+of War, Politics, Perilous Terrain, and Development.&lt;/em&gt; University of Minnesota.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.dpw.wageningen-ur.nl/locust/loclit/lit3.htm&#34;&gt;http://www.dpw.wageningen-ur.nl/locust/loclit/lit3.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.fao.org/NEWS/GLOBAL/locusts/locuhome.HTM&#34;&gt;http://www.fao.org/NEWS/GLOBAL/locusts/locuhome.HTM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Person to contact&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Mahmoud Taher, at:
+&lt;a href=&#34;mailto:Mahmoud.Taher@field.fao.org&#34;&gt;Mahmoud.Taher@field.fao.org&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Thrips palmi</title>
+      <link>http://localhost:1313/pest/thrips_palmi</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/thrips_palmi</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Thrips palmi&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;Karny&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Thysanoptera&#34;&gt;Thysanoptera&lt;/a&gt;, &lt;a href=&#34;entry/Terebrantia&#34;&gt;Terebrantia&lt;/a&gt;, &lt;a href=&#34;entry/Thripidae&#34;&gt;Thripidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: melon thrips.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: The pest occurs throughout the tropics, as well as in the subtropical region of Florida, and has recently been found in Western Europe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The female is about 1.0-1.3 mm long, yellowish to dark-yellow in color, bearing two pairs of large setae on the posterior edge of the &lt;a href=&#34;entry/Prothorax&#34;&gt;prothorax&lt;/a&gt; and little or no banding on the abdomen. The dorsum of the &lt;a href=&#34;entry/Metathorax&#34;&gt;metathorax&lt;/a&gt; has convergent striations on its posterior margin. The antennae are seven-segmented, the terminal segments mostly dark-brown.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: About 120 plants are attacked by this pest, including vegetables such as cucurbits, legumes and solanaceous crops, field crops like &lt;a href=&#34;crop/Cotton&#34;&gt;cotton&lt;/a&gt; and sunflower, and even fruit trees, including &lt;a href=&#34;crop/Avocado&#34;&gt;avocado&lt;/a&gt;, &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; and &lt;a href=&#34;crop/Mango&#34;&gt;mango&lt;/a&gt;. In addition, the melon thrips infests many weed species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic Importance&lt;/strong&gt;: The melon thrips is a major &lt;a href=&#34;entry/Quarantine_pest&#34;&gt;quarantine pest&lt;/a&gt; that has not yet been reported from the Middle East. It has a rapid rate of development, which means that much damage may occur quickly. Its feeding causes silvery spots on the leaves, which brings about their stunting, wilting and drop. When present in the blossoms, pest feeding causes irregular fruit growth and scarring. Heavy infestations may kill entire plants. In addition, the pest can transmit plant viruses of the tospovirus group.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life history&lt;/strong&gt;: At 25ºC the pest raises a generation in about 18 days and each female may deposit ca 200 eggs, whose stalks are placed into the host-plant tissue. The emerging thrips often begin to feed inside the tightly rolled leaves, at the growing points of the plant. They undergo two &lt;a href=&#34;entry/Nymph&#34;&gt;nymphal&lt;/a&gt; and two “pupal” stages, and then live on the underside of expanding leaves and in the blossoms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management:&lt;/strong&gt; The melon thrips is considered to be a dangerous pest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;: The small size of the melon thrips hinders its recognition, and various methods for its identification are in use, including whole plant examinations under strong light and color traps. Recognition of the pest&amp;rsquo;s presence is of much importance due to its rapid development, especially in regions with a long growing season.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: Pesticides like &lt;a href=&#34;entry/Imidacloprid&#34;&gt;imidacloprid&lt;/a&gt; and &lt;a href=&#34;entry/Avermectins&#34;&gt;abamectin&lt;/a&gt; can provide good control, but &lt;a href=&#34;entry/Pyrethroid&#34;&gt;pyrethroids&lt;/a&gt; should be avoided, as they may cause pest population outbreaks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;entry/Biological_control&#34;&gt;Biological control&lt;/a&gt;&lt;/strong&gt;: Little is known about the natural enemies of the melon thrips, except some generalist predators like &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;phytoseiid&lt;/a&gt; mites, bugs of the genus &lt;em&gt;Orius&lt;/em&gt; spp. and &lt;a href=&#34;entry/Entomopathogenic_fungi&#34;&gt;entomopathogenic fungi&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;REFERENCES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Castineiras, A., Baranowski, R.M. and Glenn, H. 1997. Distribution of
+&lt;em&gt;Neoseiulus cucumeris&lt;/em&gt; (Acarina: Phytoseiidae) and its prey, &lt;em&gt;Thrips palmi&lt;/em&gt;
+(Thysanoptera: Thripidae) within eggplants in south Florida. &lt;em&gt;Florida
+Entomologist&lt;/em&gt; 80: 211-217.&lt;/p&gt;
+
+&lt;p&gt;Castineiras, A., Peña, J.E., Duncan, R. and Osborne, L. 1996b. Potential of
+&lt;em&gt;Beauveria bassiana&lt;/em&gt; and &lt;em&gt;Paecilomyces fumosoroseus&lt;/em&gt; (Deuteromycotina:
+Hyphomycetes) as biological control agents of &lt;em&gt;Thrips palmi&lt;/em&gt; (Thysanoptera:
+Thripidae). &lt;em&gt;Florida Entomologist&lt;/em&gt; 79: 458-461.&lt;/p&gt;
+
+&lt;p&gt;Etienne, J., Guyot, J. and, van Waetermeulen, X. 1990. Effect of insecticides,
+predation, and precipitation on populations of &lt;em&gt;Thrips palmi&lt;/em&gt; on aubergine
+(eggplant) in Guadeloupe. &lt;em&gt;Florida Entomologis&lt;/em&gt; 73: 339-342.&lt;/p&gt;
+
+&lt;p&gt;Girling DJ. (ed.) 1992. &lt;em&gt;Thrips palmi&lt;/em&gt;. &lt;em&gt;A Literature Survey with an Annotated
+Bibliography&lt;/em&gt;. International Institute of Biological Control, Silwood
+Park, Ascot, U.K. 37 pp.&lt;/p&gt;
+
+&lt;p&gt;Tsai, J.H., Yue, B., Webb, S.E., Funderburk, J.E. and Hsu, H.T. 1995. Effects
+of host plant and temperature on growth and reproduction of &lt;em&gt;Thrips palmi&lt;/em&gt;
+(Thysanoptera: Thripidae). &lt;em&gt;Environmental Entomology&lt;/em&gt; 24: 1598-1603.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.defra.gov.uk/planth/pestnote/thrips.htm&#34;&gt;http://www.defra.gov.uk/planth/pestnote/thrips.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://creatures.ifas.ufl.edu/veg/melon_thrips.htm&#34;&gt;http://creatures.ifas.ufl.edu/veg/melon_thrips.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

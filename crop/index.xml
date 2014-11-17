@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Crops on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/crop/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Tue, 16 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Blank Crop</title>
+      <link>http://localhost:1313/crop/blank_crop</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/crop/blank_crop</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Blank Crop&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;taxonomy (or some other meta data): whatever&lt;/p&gt;
+
+&lt;p&gt;Fill in Crop here.&lt;/p&gt;
+
+&lt;p&gt;(tm) becomes ™&lt;/p&gt;
+
+&lt;p&gt;(r) becomes ®&lt;/p&gt;
+
+&lt;p&gt;(c) becomes ©&lt;/p&gt;
+
+&lt;p&gt;1\/4 becomes ¼. This also works for &amp;frac12; and &amp;frac34;. The fraction can have a trailing &amp;lsquo;th&amp;rsquo; as well, e.g., 1/2th.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; and &amp;hellip; becomes …&lt;/p&gt;
+
+&lt;p&gt;-- becomes —&lt;/p&gt;
+
+&lt;p&gt;- becomes –. Embedded dashes are ignored.&lt;/p&gt;
+
+&lt;p&gt;blockquote&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;First line of block quote.
+  Continuation of first block quote line.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Second level of block quote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;code&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;a = x(45)
+b = a + 2
+c = a * b
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;inline code &lt;code&gt;this is inline code&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tomato</title>
+      <link>http://localhost:1313/crop/tomato</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/crop/tomato</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Tomato&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Taxonomic placing: Solanaceae.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Tomato.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Tomato is the common name given to the plant &lt;em&gt;Lycopersicon esculentum&lt;/em&gt;
+(sometimes named &lt;em&gt;Solanum lycopersicon&lt;/em&gt;) and to its edible fruit. This fruit
+is one of the most widely produced and consumed vegetables in the world, for
+fresh as well as for processed consumption (e.g. sauce, ketchup).&lt;/p&gt;
+
+&lt;p&gt;Tomato plants do best on well-drained soils that are slightly acidic. Although
+tomato is a perennial plant, it is usually cultivated as an annual. Its
+varieties are mostly classified as determinate or indeterminate. The former
+bear their entire crop at one time and grow to a specific height, whereas the
+indeterminate varieties develop into vines and continue growing and producing
+fruit. In addition some tomatoes, the indeterminate, grow only to a specific
+height but produce a second crop. In the field tomato is usually grown as
+recumbent plant, but in greenhouses it is trellised and may grow to a height
+of two meters or more. The stem produces a number of compound leaves, and they
+as well as the stem are covered with &lt;a href=&#34;entry/Trichome&#34;&gt;trichomes&lt;/a&gt;.
+Many trichomes have glandular heads, which contain toxic excretions and serve
+to repel pests.&lt;/p&gt;
+
+&lt;p&gt;The tomato fruit is a fleshy berry containing a soft inner tissue (the
+columella) surrounded by seeds, a soft pericarp and a thin skin which turns
+from green to red as the fruit matures. The fruit of the various varieties (of
+which there are several thousand) comes in many shapes, from large (up to 7 cm
+in diameter) and rounded, to small, cluster-like, 1.5-2.5 cm in diameter), as
+well as oval-shaped.&lt;/p&gt;
+
+&lt;p&gt;In Israel the commonly grown varieties are #1420 and #1912, and many others
+are in development. Transgenic tomato varieties were constructed but failed,
+mostly due to environmental concerns and to the availability of unmodified
+varieties that provide the same benefits.&lt;/p&gt;
+
+&lt;p&gt;World production of tomatoes came to about 110 million tons in 2003, of which
+China (ca 24% of total), USA (11%) and Turkey (8%, with 9,700,000 tons picked
+and 1,630,000 tons processed in 2005) were the main producers. About 405,000
+tons were harvested in Israel in 2005, of which 230,000 tons were processed.
+In Jordan ca 50,000 tons were processed in the same year and in Syria 420,000
+tons were picked, of which about 135,000 tons were processed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Major tomato pests in the Middle East&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aculops_Lycopersici&#34;&gt;&lt;em&gt;Aculops lycopersici&lt;/em&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Agrotis segetum&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Bemisia_Tabaci&#34;&gt;&lt;em&gt;Bemisia tabaci&lt;/em&gt; &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Empoasca lybica&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Frankliniella_occidentalis&#34;&gt;&lt;em&gt;Frankliniella occidentalis&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;a href=&#34;pest/LiriomyzaT_rifolii&#34;&gt;Liriomyza trifolii &lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Myzus persicae&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Phthorimaea operculella&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Spodoptera_Littoralis&#34;&gt;&lt;em&gt;Spodoptera littoralis&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Tetranychus_Cinnabarinus&#34;&gt;&lt;em&gt;Tetranychus cinnabarinus&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Tetranychus_Urticae&#34;&gt;&lt;em&gt;Tetranychus urticae&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Thrips tabaci&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Atherton, J.G. and Rudich, J. (editors). &lt;em&gt;The Tomato Crop. A Scientific Basis
+for Improvement&lt;/em&gt;. Chapman &amp;amp; Hall, London, pp. 661.&lt;/p&gt;
+
+&lt;p&gt;Heuvelink, E. (editor) 2005. &lt;em&gt;Tomatoes&lt;/em&gt;. CABI Publishing, Wallingford, UK, pp.
+339.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.amitom.com/cadre.htm](http://www.amitom.com/cadre.htm&#34;&gt;http://www.amitom.com/cadre.htm](http://www.amitom.com/cadre.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/Tomato&#34;&gt;http://en.wikipedia.org/wiki/Tomato&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.cals.ncsu.edu/sustainable/peet/profiles/c19tom.html&#34;&gt;http://www.cals.ncsu.edu/sustainable/peet/profiles/c19tom.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

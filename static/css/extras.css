@@ -1,0 +1,240 @@
+.exs {font-size:xx-small;}
+
+.noshow {display:none;}
+
+.entry div#categories, .crop div#categories{display:none;}
+
+#content {padding-right:2.2em;border-right:1px dotted #efefef;}
+
+strong {font-size:.9em;font-family:'Fjalla One', serif;
+	font-weight:400 !important; /*#2c3e50;color:#526170 ;*/}
+	
+em {color:#33383E; size:1.1em;   /*!important*/;font-family:'Georgia',serif; } 
+
+a em {color: #3498db;}
+
+code {font-family:'Georgia', sans-serif;font-weight:400 !important; color:#33383E;font-size:.8em; /*#607181;*/ }
+
+
+figure div {
+    position: relative;
+    display: inline-block;
+    max-width: 100%;
+    padding: 0;
+}
+
+header {text-align:center;}
+
+
+h1#title, h1#toc_0, h2#toc_0 {/*font-size:2.625em;line-height:1.14286em;margin:0em 0 0.5em;*/text-align:center;} 
+
+
+h1#toc_0 code {font-family:'Georgia', sans-serif;font-weight:400 !important;/*font-size:.7em;*/}
+h1#toc_0 strong em {font-size:120%;}
+
+h2#toc_0 code {font-family:'Georgia', sans-serif;font-weight:400 !important;/*font-size:.6em;*/}
+h2#toc_0 strong em {font-size:120%;}
+
+h1#toc_0 code, h2#toc_0 code {font-size:100%;}
+
+
+
+
+#mylist{list-style:none}
+
+#mylist>li{vertical-align:top;margin-bottom:.5em;/*display:table;*/width:100%;padding:0 0}
+
+#mylist>li>a{display:table-cell;padding:0 .5em}
+
+#mylist>li>.meta{/*display:table-cell;*/text-align:right;width:25%}
+
+.ln-letters a {color:#3498db;text-decoration:none;border-radius:0px;padding:1px 3px;margin-bottom:1em;}
+
+
+
+#myline {display:block !important;
+	width:80%;/*-webkit-box-sizing:border-box;-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:
+	border-box;display:inline-block;*/
+	/*float:left;*/text-align:center;font-size:1em;line-height:1em;padding-top:.95em}
+
+
+#mainnav {float:none;}
+
+#mainnav>ul {padding:0;display:inline}
+
+#mainnav li {display:inline-block;list-style:none outside none;padding-bottom:1em; width:20%; }
+ 
+p:first-child {font-size:.9em;}
+ 
+.ins {margin-left: 1em;}
+ 
+
+ul.definition {margin-left: 3em;}
+ul.definition li {list-style-type:none;}
+ul.definition li a {text-decoration:none;}
+
+ul#frontnav {list-style-type:none;}
+li.menu {display:inline;float:left;}
+
+ #frontmap img {text-align:center !important;
+ 			height:70%; width:70%;}
+ 			
+li.closer {font-size:.8em; line-height:1.4em;} 
+.cen {text-align:center;}
+
+
+#fauthor{width:100% !important;padding-top:4em;padding:bottom:2em;}
+
+#fauth{
+	display:block !important;width:80%;-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:
+	border-box;box-sizing:border-box;display:inline-block;float:left;
+	text-align:left;font-size:1em;line-height:1.4em;margin-left:10%;padding-top:.8em
+}
+
+#auth a {color: #7f8c8d;}
+
+#auth{
+	display:block !important;width:100%;-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:
+	border-box;box-sizing:border-box;display:inline-block;float:left;
+	text-align:left;font-size:1em;line-height:1.4em; margin-left:20%;
+	padding-top:.8em
+}
+
+
+header #auth{
+	display:block !important;width:100%;-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:
+	border-box;box-sizing:border-box;display:inline-block;float:left;
+	text-align:left;font-size:1em;line-height:1.4em; margin-left:.1em;
+	padding-top:.1em
+}
+
+#author{width:100% !important;padding-top:4em;padding:bottom:2em;}
+
+#fronthuji {margin:3em}
+#fronthuji img {padding-top:30%;}
+
+  
+#header p {margin-left:2em;}
+ 
+#frontheader {position:relative;margin:0;padding-top:0em;transition:opacity .7s}
+
+/*
+#frontheader  figure {width:50%;-webkit-box-sizing:border-box;-moz-box-sizing:
+	border-box;-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:
+	border-box;display:inline-block;float:left;margin-left:25%;padding-bottom:1em
+}
+
+#frontheader  figure {width:25%;-webkit-box-sizing:
+	border-box;-moz-box-sizing:border-box;-ms-box-sizing:border-box;-o-box-sizing:
+	border-box;box-sizing:border-box;display:inline-block;float:left;margin:0
+}
+*/
+
+#frontheader  figure >img {width:8em;margin:0 auto}
+
+/*
+#frontheader  figure >img {width:8em}
+
+#frontheader  figure >img {width:10em}
+*/
+
+#frontheader:hover{opacity:1}
+
+#frontheader {position:fixed;left:0;margin:0;width:30%;
+	-webkit-box-sizing:border-box;-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;
+	display:inline-block;float:left;color:#34495e;height:100%;opacity:.5;
+	-webkit-transition:all 0.7s ease-out;-moz-transition:all 0.7s ease-out;
+	-ms-transition:all 0.7s ease-out;transition:all 0.7s ease-out border: 1px solid red;
+}
+
+#frontheader > figure {
+/*  position: fixed; top:0; left:0; 
+  padding-right:66%;*/  /* Preserve aspect ratio */
+/*  max-width: 100%;  max-height: 1000%;*/
+/*  float:left; display:inline-block; */
+/*width:50%;*/
+/*  margin:0 1.2em 0 0;*/
+/*
+  -webkit-box-sizing:border-box;-moz-box-sizing:border-box;
+  -ms-box-sizing:border-box;-o-box-sizing:border-box;box-sizing:border-box;
+*/
+}
+
+/*
+#frontheader > figure > img {width:8em; }
+*/
+#locust {/*min-width:100%;max-width:1000%;*/
+	float:left;margin-right:2rem;max-width:202px;height:auto;
+	width:50%;
+}
+
+
+
+
+figure.fig30p {max-width: 30% !important;   padding:1em;  }
+figure.fig40p {max-width: 40% !important;   padding:1em;  }
+figure.fig50p {max-width: 50% !important;   padding:1em;  }
+figure.fig60p {max-width: 60% !important;   padding:1em;  }
+figure.fig70p {max-width: 70% !important;   padding:1em;  }
+figure.fig80p {max-width: 80% !important;   padding:1em;  }
+
+
+figcaption.fig30p {max-width: 90%; bottom: 2em !important;left: 1em !important; margin:1em;}
+figcaption.fig40p {max-width: 90%; bottom: 2em !important;left: 1em !important; margin:1em;}
+figcaption.fig50p {max-width: 90%; bottom: 2em !important;left: 1em !important; margin:1em;}
+figcaption.fig60p {max-width: 90%; bottom: 2em !important;left: 2em !important; margin:1em;}
+figcaption.fig70p {max-width: 90%; bottom: 2em !important;left: 2em !important; margin:1em;}
+figcaption.fig80p {max-width: 90%; bottom: 2em !important;left: 2em !important; margin:1em;}
+
+
+.fig30pl {max-width: 30% !important; float:left; padding-right:1em;  }
+.fig40pl {max-width: 40% !important; float:left; padding-right:1em;  }
+.fig50pl {max-width: 50% !important; float:left; padding-right:1em;  }
+.fig60pl {max-width: 60% !important; float:left; padding-right:1em;  }
+.fig70pl {max-width: 70% !important; float:left; padding-right:1em;  }
+.fig80pl {max-width: 80% !important; float:left; padding-right:1em;  }
+.figpl {float:left; padding-right:1em;  }
+
+figure.fig30pr {max-width: 30% !important; float:right; padding-left:1em;  }
+figure.fig40pr {max-width: 40% !important; float:right; padding-left:1em;  }
+figure.fig50pr {max-width: 50% !important; float:right; padding-left:1em;  }
+figure.fig60pr {max-width: 60% !important; float:right; padding-left:1em;  }
+figure.fig70pr {max-width: 70% !important; float:right; padding-left:1em;  }
+figure.fig80pr {max-width: 80% !important; float:right; padding-left:1em;  }
+figure.figpr {float:right; padding-left:1em;  }
+
+figcaption.fig30pr {max-width: 30% !important; float:right; left:2em !important;}
+figcaption.fig40pr {max-width: 40% !important; float:right; left:2em !important;}
+figcaption.fig50pr {max-width: 50% !important; float:right; left:2em !important;}
+figcaption.fig60pr {max-width: 60% !important; float:right; left:2em !important;}
+figcaption.fig70pr {max-width: 70% !important; float:right; left:2em !important;}
+figcaption.fig80pr {max-width: 80% !important; float:right; left:2em !important;}
+
+.showsize {color:green; font-size:small; 
+	font-family:'Inconsolata'; padding:4px; border:1px dotted green;}
+
+@media screen and (max-width: 30em){ .showsize::after {content: "<30em"}}
+@media screen and (min-width: 30em){ .showsize::after {content: ">30, <40em"}}
+@media screen and (min-width: 40em){ .showsize::after {content: ">40, <48em"}}
+@media screen and (min-width: 48em){ .showsize::after {content: ">48, <64em"}}
+@media screen and (min-width: 64em){ .showsize::after {content: ">64, <75em"}}
+@media screen and (min-width: 75em){ .showsize::after {content: ">75, <90em"}}
+@media screen and (min-width: 90em){ .showsize::after {content: ">90, <100em"}}
+@media screen and (min-width: 100em){ .showsize::after {content: ">100, <128em"}}
+@media screen and (min-width: 128em){ .showsize::after {content: ">128, <160em"}}
+@media screen and (min-width: 160em){ .showsize::after {content: ">160"}}
+
+
+article,aside,details,figcaption,figure,footer,header,hgroup,nav,section,audio,canvas,video 
+	{display:inline-block}
+ 
+ 
+ 
+ 
+ 
+ 

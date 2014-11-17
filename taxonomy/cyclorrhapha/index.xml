@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Cyclorrhapha on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/taxonomy/cyclorrhapha/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Mon, 07 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Pegomyia betae</title>
+      <link>http://localhost:1313/pest/pegomyia_betae</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/pegomyia_betae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Pegomyia betae&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Curtis)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Diptera&#34;&gt;Diptera&lt;/a&gt;,  &lt;a href=&#34;entry/Cyclorrhapha&#34;&gt;Cyclorrhapha&lt;/a&gt;, &lt;a href=&#34;entry/Anthomyidae&#34;&gt;Anthomyidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Beet fly, beet leaf miner.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: This pest occurs in North America, Europe, northern Asia, Japan and in the Mediterranean Basin.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: Beet (&lt;em&gt;Beta vulgaris&lt;/em&gt;) and other members of the family Chenopodiaceae.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: Adults about 5-7 mm in length with a dark-grey body, a silvery head and dark-yellow legs. The &lt;a href=&#34;entry/Larva&#34;&gt;larva&lt;/a&gt; (a &lt;a href=&#34;entry/Maggot&#34;&gt;maggot&lt;/a&gt;) 8 mm long, whitish to pale green in color.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The mining of the pest in the leaves of young beet plants causes their decline and death. Young plants are especially susceptible, whereas elder beets (with 6-8 true leaves) seem to be tolerant to the pest. In Europe the fly is an economic pest in the spring, whereas in the Middle East, where it is of minor importance, only in the autumn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: Females lay their eggs (about 50-80) on the lower sides of beet leaves, into which the emerging larvae immediately penetrate. They feed between the upper and lower leaf epidermis where they form irregular mines. At maturation the larvae enter the soil to pupate. The pest, which is very susceptible to dry and hot conditions, occurs during winter in the Middle East. It completes 2-3 annual generation and the pupae of the third generation remain in the soil from the spring till until the next autumn, apparently in &lt;a href=&#34;entry/Diapause&#34;&gt;diapause&lt;/a&gt;. The size of the fly populations may greatly fluctuate from one year to the next, dependent on the prevailing climatic conditions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Plant resistance&lt;/strong&gt;: Some mangold varieties are tolerant of the pest, apparently to the presence of certain &lt;a href=&#34;entry/Secondary_plant_constituents&#34;&gt;secondary plant constituents&lt;/a&gt;, such as phenols.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: Very severe attacks may be controlled with &lt;a href=&#34;entry/Organophosphate&#34;&gt;organophosphates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Avidov, Z. and Harpaz, I. 1969. &lt;em&gt;Plant Pests of Israel&lt;/em&gt;. Israel Universities
+Press, Jerusalem.&lt;/p&gt;
+
+&lt;p&gt;Luczak, I. 1993. The influence of &lt;em&gt;Pegomyia betae&lt;/em&gt; (Curt.) attack on the
+content of phenolic compounds in the leaves of mangold cultivars of different
+susceptibility to the pest. &lt;em&gt;Acta Physiologiae Plantarum&lt;/em&gt; &lt;strong&gt;15&lt;/strong&gt;: 11-17.&lt;/p&gt;
+
+&lt;p&gt;Missonnier, J. 1961.[Contribution to the study of the factors conditioning the
+fecundity of adults and the pullulations of _ Pegomyia betae_ Curt. (Diptera
+Muscidae)]. &lt;em&gt;Comptes Rendus Seances de l&amp;rsquo;Academie de Sciences&lt;/em&gt; &lt;strong&gt;31&lt;/strong&gt;:907-9.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;br /&gt;
+&lt;a href=&#34;http://www.strube-dieckmann.de/inhalt/5_pflanzenbau/ruebenfliege2002.html&#34;&gt;http://www.strube-dieckmann.de/inhalt/5_pflanzenbau/ruebenfliege2002.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

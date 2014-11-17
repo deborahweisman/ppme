@@ -1,0 +1,431 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Eriophyoidea on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/taxonomy/eriophyoidea/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Mon, 01 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Aceria mangiferae</title>
+      <link>http://localhost:1313/pest/aceria_mangiferae</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aceria_mangiferae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aceria mangiferae&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;Sayed&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;:  &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Prostigmata&#34;&gt;Prostigmata&lt;/a&gt;, &lt;a href=&#34;entry/Eriophyoidea&#34;&gt; Eriophyoidea&lt;/a&gt; &lt;a href=&#34;entry/Eriophyidae&#34;&gt;Eriophyidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Mango bud (or gall) mite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution:&lt;/strong&gt; Egypt and Israel, South Africa, southern Asia, Florida, Mexico and several Central and South American regions.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;a href=&#34;crop/Mango&#34;&gt;Mango&lt;/a&gt; (&lt;em&gt;Mangifera indica&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Symptoms and economic importance&lt;/strong&gt;: The Mango bud mite is considered to be the major pest of mango in Egypt. It lives (sometimes in large numbers, coming to over 20 per bud) in the buds and inflorescences of the host, causing &amp;ldquo;califlower&amp;rdquo;-like growths. Mite feeding stunts and malforms the buds, causes leaf drop and arrests plant growth, resulting in twiggy, stubby branches. Young trees are more heavily attacked. Yield can be greatly reduced. The mite usually occurs along with the pathogenic fungus &lt;em&gt;Fusarium mangiferae&lt;/em&gt;. The feeding wounds of the mite probably serve as portals for the fungus, which appears to cause most of the damage. In addition, &lt;em&gt;A. mangiferae&lt;/em&gt; transmits the fungus between trees and probably between tree parts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The body of the adult mango bud mite is whitish, about 0.20 mm in length, cylindrical. The &lt;a href=&#34;entry/Prodorsum&#34;&gt;prodorsum&lt;/a&gt; bears a pair of backwards-pointing setae set on tubercles with three strong ridges located between them. The &lt;a href=&#34;entry/Feather_claw&#34;&gt;feather claw&lt;/a&gt; is six-rayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: The mango bud mite lives throughout the year within closed adventive buds on the tree trunk and branches, moving into terminal buds duirng periods of population increase. It reproduces by &lt;a href=&#34;entry/Arrhenotokous&#34;&gt;arrhenotoky&lt;/a&gt; and its entire cycle (egg to egg) requires 2-3 weeks in summer, twice that much in winter. The pest raises 8 annual generations in Egypt, with distinct spring and autumn peaks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cultural control&lt;/strong&gt;: Pruning of the affected twigs may reduce, but not eliminate, the extent of the damage. Certain varieties, such as Maya, Palmer, Keitt and Kent, seem to be resistant as they sustain only very small mite colonies, whereas Tommy Atkins is more affected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: The application of &lt;a href=&#34;entry/Acaricide&#34;&gt;acaricides&lt;/a&gt; may reduce, but not eliminate, the extent of the damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: The &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;phytoseiid&lt;/a&gt; predator &lt;a href=&#34;pest/Amblyseius_swirskii&#34;&gt;&lt;em&gt;Amblyseius swirskii&lt;/em&gt;&lt;/a&gt; &lt;code&gt;Athias-Henriot&lt;/code&gt; is commonly associated with the mango bud mite but its effect on the pest is not known.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Abou-Awad, B.A. 1981. Ecological and biological studies on the mango bud mite,
+&lt;em&gt;Eriophyes mangiferae&lt;/em&gt; (Sayed), with descriptions of immature stages
+(Eriophyoidea: Eriophyidae). &lt;em&gt;Acarologia&lt;/em&gt; 22: 145-150.&lt;/p&gt;
+
+&lt;p&gt;Peña, J. and Johnson, F. 1998. Insect Management in Mango. Department of
+Entomology and Nematology Document ENY-413. Florida Cooperative Extension
+Service, Institute of Food and Agricultural Sciences, University of Florida.
+Available at:  &lt;a href=&#34;http://edis.ifas.ufl.edu/IG073&#34;&gt;http://edis.ifas.ufl.edu/IG073&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Sternlicht, M. and Goldenberg, S. 1976. Mango eriophyid mites in relation to
+inflorescence. &lt;em&gt;Phytoparasitica&lt;/em&gt; 4: 45-50.&lt;/p&gt;
+
+&lt;p&gt;Swirski, E., Wysoki, M. and Izhar, Y. 2002. &lt;em&gt;Subtropical Fruits Pests in
+Israel&lt;/em&gt;. Fruit Board of Israel (in Hebrew with English Summary).&lt;/p&gt;
+
+&lt;p&gt;Zaher, M.A. and Osman, A.A. 1970. Population studies on mites associated with
+mango trees in Egypt. _Bull. Societe d’entomologie Egypte_54: 141-148.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ag.vt.edu/ipmcrsp/presentations/Mites%20poster.pdf]&#34;&gt;http://www.ag.vt.edu/ipmcrsp/presentations/Mites%20poster.pdf]&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aceria oleae</title>
+      <link>http://localhost:1313/pest/aceria_oleae</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aceria_oleae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aceria oleae&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Nalepa)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Prostigmata&#34;&gt;Prostigmata&lt;/a&gt;,  &lt;a href=&#34;entry/Eriophyoidea&#34;&gt; Eriophyoidea&lt;/a&gt; &lt;a href=&#34;entry/Eriophyidae&#34;&gt;Eriophyidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Olive gall mite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert%20Small-Image%20File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Of East Mediterranean origin, the pest has also invaded other Mediterranean countries and South Africa.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;a href=&#34;crop/Olive&#34;&gt;Olive&lt;/a&gt; (&lt;em&gt;Olea europea&lt;/em&gt;)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: By feeding within the growing points of the olive, the mite causes the emerging leaves to be deformed and twisted. In severe cases this leads to withering and death, and even total lack of blossoming (and thus prevents fruit formation).  Overall tree development (especially of saplings) and yield may be seriously affected. Greenish spots develop on infested mature leaves which become distorted. Infested young fruit turns silvery and may be deformed by protuberances; more than half the fruit may drop or be damaged. Mature fruits are not attacked.&lt;/p&gt;
+
+&lt;p&gt;Due to the fact that on olives several eriophyid species may live side by side
+and infest its organs together, the particular injury attributed to &lt;em&gt;A. oleae&lt;/em&gt;
+may actually be due to one or more species damaging the host together.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The body of the adult mite is yellow, about 0.13 mm in length, cylindrical, with a similar number (50-60) of dorsal and ventral &lt;a href=&#34;entry/Ppisthosoma&#34;&gt;opisthosomal&lt;/a&gt; rings. The &lt;a href=&#34;entry/Prodorsum&#34;&gt; prodorsum&lt;/a&gt; has an obscure pattern with lines that are discernible only towards the rear and bears two long backwards-pointing setae; the &lt;a href=&#34;entry/Featherclaw&#34;&gt;featherclaw&lt;/a&gt; is four-rayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle:&lt;/strong&gt; The olive gall mite prefers young olives growing in warm and humid conditions, thus thriving in nurseries and well-irrigated young plantations, and infesting mainly the peripheral growth. It passes the winter hidden on the lower sides of the leaves, the populations moving to the flower clusters in spring. In Greece the pest raised 12-15 annual generations in the field, and its populations peaked during June-July, with a smaller rise in late September. The mite reproduces by &lt;a href=&#34;entry/Arrhenotokous&#34;&gt; arrhenotoky&lt;/a&gt;, each female depositing up to 40 eggs. When reared in the laboratory on olive leaf disks at 21-24ºC, its life cycle (egg to egg) required about a forthnight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cultural control&lt;/strong&gt;: Some olive varieties seem to be tolerant to the pest. In addition, horticultural practices, such as pruning or topping, induce new growth and thus the formation of more susceptible buds. The mite may spread to new areas by infested seedlings, which should be suitably treated prior to transportation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: In the past the mite was often controlled with wettable sulfur, usually applied early in the season. Nowadays either amitraz or &lt;a href=&#34;entry/Avermectins&#34;&gt;abamectin&lt;/a&gt; will control the pest when applied before olive blooming, in order to prevent damage to fruit, or given several times during the season if leaf damage is to be avoided.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;BiologicalControl&#34;&gt;Biological control&lt;/a&gt;&lt;/strong&gt;: Several predatory mites of the family &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;Phytoseiidae&lt;/a&gt; are associated with the olive gall mite, the most abundant species in Italy being &lt;em&gt;Typhlodromus athenas&lt;/em&gt; &lt;code&gt;Swirski and Ragusa&lt;/code&gt;. Although the quantitative effect of the various phytoseiids has not been resolved, it is commonly believed that eriophyid olive pests are held below their economic injury threshold by the predators.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Abd Elhadi, F. and Birger, R. 1999. A new approach to the control of the olive
+mite &lt;em&gt;Aceria&lt;/em&gt; (&lt;em&gt;Eriophyes&lt;/em&gt;) &lt;em&gt;oleae&lt;/em&gt; in olive trees. &lt;em&gt;Acta Horticulturae&lt;/em&gt;
+474: 555-557.&lt;/p&gt;
+
+&lt;p&gt;Castagnoli, M. and Oldfield, G.N. 1996. Other fruit trees and nut trees. In:
+&lt;em&gt;Eriophyoid Mites, Their Biology, Natural Enemies and Control&lt;/em&gt; (edited by
+Lindquist, E.E., Sabelis, M.W. and Bruin, J.), pp. 543–559. Elsevier,
+Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;Harpaz, I. 1955. Notes on the eriophyid mites of Israel. &lt;em&gt;Bulletin of the
+Research Council of Israel&lt;/em&gt; (Section B) 5: 61-69.&lt;/p&gt;
+
+&lt;p&gt;Hatzinikolis, E.N. 1973. A contribution to the study of &lt;em&gt;Aceria oleae&lt;/em&gt;
+(Nalepa, 1900) (Acarina: Eriophyidae). &lt;em&gt;Proceedings of the 3rd International
+Congress of Entomology&lt;/em&gt;, Junk, The Hague, pp. 221-224.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;br /&gt;
+ &lt;a href=&#34;http://www.ag.vt.edu/ipmcrsp/presentations/Mites%20poster.pdf&#34;&gt;http://www.ag.vt.edu/ipmcrsp/presentations/Mites%20poster.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aceria sheldoni</title>
+      <link>http://localhost:1313/pest/aceria_sheldoni</link>
+      <pubDate>Mon, 01 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aceria_sheldoni</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aceria sheldoni&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Ewing)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Prostigmata&#34;&gt;Prostigmata&lt;/a&gt;, &lt;a href=&#34;entry/Eriophyoidea&#34;&gt; Eriophyoidea&lt;/a&gt; &lt;a href=&#34;entry/Eriophyidae&#34;&gt;Eriophyidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Citrus bud mite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert%20Small-Image%20File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Almost wherever &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; is grown. Commonwealth Institute of Entomology Map #127, 1980 (revised).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;em&gt;Citrus&lt;/em&gt; spp., especially lemons&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Symptoms and economic importance&lt;/strong&gt;: The bud mites lives in and feed on the buds, blossoms and flowers of the host. They sometimes occurs in very large numbers. Their feeding kills the cells and causes the blackening of the buds and irregular growth of leaves, branches and fruit. The damaged buds proliferate and produce irregular and twisted growth of leaf clusters. Twigs are foreshortened and &lt;a href=&#34;entry/Brooming&#34;&gt;broomed&lt;/a&gt; and the fruit deforms into various distorted shapes, including finger-like forms. Further damage is caused by fruit drop. Although the pest attacks all citrus varieties, it causes the most serious damage to lemons, whose yield may be seriously affected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The body of the adult citrus bud mite is yellow to pink, about 0.17 mm in length, cylindrical, with a similar number (70-80) of dorsal and ventral &lt;a href=&#34;entry/Opisthosoma&#34;&gt; opisthosomal&lt;/a&gt; rings. The &lt;a href=&#34;entry/Prodorsum&#34;&gt;prodorsum&lt;/a&gt; bears a pair of backwards-pointing setae and two parallel ridges along its entire length. The &lt;a href=&#34;entry/Featherclaw&#34;&gt; featherclaw&lt;/a&gt; is five-rayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: The citrus rust mite reproduces by &lt;a href=&#34;entry/Arrhenotokous&#34;&gt; arrhenotoky&lt;/a&gt;, each female deposits about 50 eggs, and its entire cycle (egg to egg) requires about 15 days in summer, twice that much in winter. The pest thus raises about 20 annual generations. The &lt;a href=&#34;entry/Sex_Ratio&#34;&gt; sex ratio&lt;/a&gt; is male-biased in spring and female-biased during fall. Although the mite lacks eyes, it is attracted to yellow and red, not to blue or green. The pest develops throughout the year, mostly in milder and more humid regions, with peaks in the spring and autumn. Dispersal takes place during the spring growth of most citrus trees and the several growth flushes of lemons. Young, elongating twigs are rapidly colonized by the mite, its infestations increasing as the twigs age. Temperatures below 8°C or above 35°C, and relative humidity below 40% are lethal to the mite.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Managenment&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: When necessary, the mite can be controlled by most acaricides as well as by &lt;a href=&#34;entry/White_Oils&#34;&gt; white oil&lt;/a&gt;, but the cost of such control may exceed the its economic benefit.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_Control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: Several predatory mites have
+been found to be associated with the citrus bud mite, but due to being
+protected inside the buds, none appear to effect the populations or the damage
+caused by the pest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;R&lt;/strong&gt;&lt;strong&gt;eferences&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sternlicht, M. 1969. A study of fluctuations in the citrus bud mite
+population. &lt;em&gt;Annales de Zoologie-Écologie animale&lt;/em&gt; &lt;strong&gt;1&lt;/strong&gt;: 127-147.&lt;/p&gt;
+
+&lt;p&gt;Sternlicht, M. 1969. Effect of different wave lengths of light on the
+behaviour of an eriophyid bud mite, &lt;em&gt;Aceria sheldoni&lt;/em&gt;. &lt;em&gt;Entomologia
+Experimentalis et Applicata&lt;/em&gt; &lt;strong&gt;12&lt;/strong&gt;: 377-382.&lt;/p&gt;
+
+&lt;p&gt;Sternlicht, M. and Goldenberg, S. 1971. Fertilisation, sex ratio and
+postembryonic stages of the citrus bud mite _ Aceria sheldoni_ (Ewing)
+(Acarina, Eriophyidae). &lt;em&gt;Bulletin of Entomological Research&lt;/em&gt; &lt;strong&gt;60&lt;/strong&gt;: 391-397.&lt;/p&gt;
+
+&lt;p&gt;Walker, G.P., Voulgaropoulos, A.L. and Phillips, P.A. 1992. Effect of citrus
+bud mite (Acari: Eriophyidae) on lemon yields. &lt;em&gt;Journal of Economic
+Entomology&lt;/em&gt; &lt;strong&gt;85&lt;/strong&gt;: 1318-1329.&lt;/p&gt;
+
+&lt;p&gt;Walker, G.P., Voulgaropoulos, A.L. and Phillips, P.A. 1992. Distribution of
+citrus bud mite (Acari: Eriophyidae) within lemon trees. &lt;em&gt;Journal of Economic
+Entomology&lt;/em&gt; &lt;strong&gt;85&lt;/strong&gt;: 2389-2398.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:
+&lt;a href=&#34;http://www.viarural.com.ar/viarural.com.ar/agricultura/frutales/plagas/aceria-sheldoni.htm&#34;&gt;http://www.viarural.com.ar/viarural.com.ar/agricultura/frutales/plagas/aceria-sheldoni.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aculops lycopersici</title>
+      <link>http://localhost:1313/pest/aculops_lycopersici</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aculops_lycopersici</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aculops lycopersici&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Massee)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Prostigmata&#34;&gt;Prostigmata&lt;/a&gt;, &lt;a href=&#34;entry/Eriophyoidea&#34;&gt;Eriophyoidea&lt;/a&gt;, &lt;a href=&#34;entry/Eriophyidae&#34;&gt;Eriophyidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Tomato russet mite&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;entry/images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Worldwide; in the Middle East known since the late 1940s. Commonwealth Institute of Entomology Map # 164, 1987.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: Many members of the family Solanaceae, especially in the genera &lt;em&gt;Lycopersicum&lt;/em&gt; and &lt;em&gt;Solanum&lt;/em&gt;. Bindweed, &lt;em&gt;Convolvulus arvensis&lt;/em&gt; &lt;code&gt;L.&lt;/code&gt; (Convolvulaceae), also serves as host.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Symptoms and economic importance&lt;/strong&gt;: Infestations on &lt;a href=&#34;crop/Tomato&#34;&gt;tomato&lt;/a&gt; usually begin in the lower parts of host plants, on the stems and leaves, which lose their color, wilt and drop. Attacked tomatoes become bronzed and rough, and severe infestations cause plant withering and death. Yield is much reduced. Tomato is the most heavily affected host plant, but petunia, pepper and potato may also be damaged. Infested eggplants usually show less damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The mite is spindle-shaped, yellowish, about 0.16-0.18 mm in length, with a pair of backwards-pointing &lt;a href=&#34;entry/Prodorsum&#34;&gt;prodorsal&lt;/a&gt; setae. The dorsal shield bears two ridges that are parallel along their posterior half but diverge anteriorly. The &lt;a href=&#34;entry/Opisthosoma&#34;&gt;opisthosoma&lt;/a&gt; has about 30 dorsal and 60 ventral rings. The &lt;a href=&#34;entry/Feather_claw&#34;&gt;featherclaw&lt;/a&gt; is four-rayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: The mite is a warm-weather leaf vagrant that has no dormancy and dies if exposed to sub-freezing temperatures. Development is also retarded under high humidity conditions at high temperatures. In temperate regions the pest survives winters only within greenhouses, but under warmer conditions &lt;em&gt;A. lycopersici&lt;/em&gt; lives out of season on bindweed or on wild Solanaceae. These plants serve as sources for the infestation of crops, reaching them with winds, insects or by clinging to farming implements and personnel. An entire life cycle cn be completed in about one week, each female producing 30-50 progeny. Like other Eriophyidae, reproduction is by &lt;a href=&#34;entry/Arrhenotokous&#34;&gt;arrhenotoky&lt;/a&gt;; males deposite &lt;a href=&#34;entry/Spermatophore&#34;&gt;spermatophores&lt;/a&gt; on the leaves that are taken up by the females.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host resistance&lt;/strong&gt;: Tomato varieties whose leaves bear more &lt;a href=&#34;entry/trichome&#34;&gt;trichomes&lt;/a&gt; are less susceptible to the mite. Various mineral fertilization regimes or plant height have no effect on the pest&amp;rsquo;s level of attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: Several acarine
+predators in the families &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;Phytoseiidae&lt;/a&gt;,
+&lt;a href=&#34;entry/Stigmaeidae&#34;&gt;Stigmaeidae&lt;/a&gt; and
+&lt;a href=&#34;entry/Tydeaidae&#34;&gt;Tydeidae&lt;/a&gt; feed on the pest in the
+laboratory, but little is known about their effect in the field.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: &lt;a href=&#34;entry/Acaricide&#34;&gt;Acaricides&lt;/a&gt; effective against the pest include &lt;a href=&#34;entry/Avermectins&#34;&gt;abamectin&lt;/a&gt;, dicofol, cyhexatin and compounds of &lt;a href=&#34;entry/Bacillus_thuringiensis&#34;&gt;&lt;em&gt;Bacillus thuringiensis&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;REFERENCES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Anderson, L.A. 1954. The tomato russet mite in the United States. &lt;em&gt;Journal of
+Economic Entomology&lt;/em&gt; 47: 1001-1005.&lt;/p&gt;
+
+&lt;p&gt;Harpaz, I. 1955. Notes on the eriophyid mites of Israel. &lt;em&gt;Bulletin of the
+Research Council of Israel&lt;/em&gt; 5B: 61-69.&lt;/p&gt;
+
+&lt;p&gt;Hessein, N. A. and Perring, T.M. 1986. Feeding habits of the Tydeidae with
+evidence of &lt;em&gt;Homeopronematus anconai&lt;/em&gt; (Acari: Tydeidae) predation on &lt;em&gt;Aculops
+lycopersici&lt;/em&gt; (Acari: Eriophyidae). &lt;em&gt;International Journal of Acarology&lt;/em&gt;
+12: 215-221.&lt;/p&gt;
+
+&lt;p&gt;Leite, G.L.D., PicanÇo, M., Guedes, R.N.C. and Zanuncio, J.C. 1999. Influence
+of canopy height and fertilization levels on the resistance of &lt;em&gt;Lycopersicon
+hirsutum&lt;/em&gt; to &lt;em&gt;Aculops lycopersici&lt;/em&gt; (Acari: Eriophyidae). &lt;em&gt;Experimental and
+Applied Acarology&lt;/em&gt; 23: 633-642.&lt;/p&gt;
+
+&lt;p&gt;Osman, A.A. and Zaki, A.M. 1986. Studies on the predation efficiency of
+&lt;em&gt;Agistemus exsertus&lt;/em&gt; Gonzalez (Acarina, Stigmaeidae) on the eriophyid mite
+&lt;em&gt;Aculops lycopersici&lt;/em&gt; (Massee). &lt;em&gt;Anzeiger Schadlingskunde Pflazenschutz,
+Umweltschutz&lt;/em&gt; 59: 135-136.&lt;/p&gt;
+
+&lt;p&gt;Rice, R.E. and Strong, F.E. 1962. Bionomics of the tomato russet mite,
+&lt;em&gt;Vasates lycopersici&lt;/em&gt; (Massee). &lt;em&gt;Journal of Economic Entomology&lt;/em&gt; 55:
+431-435.&lt;/p&gt;
+
+&lt;p&gt;Royalty, R.N. and Perring, T.M. 1987. Comparative toxicity of acaricides to
+&lt;em&gt;Aculops lycopersici&lt;/em&gt; and &lt;em&gt;Homeopronematus anconai&lt;/em&gt; (Acari: Eriophyidae:
+Tydeidae). &lt;em&gt;Journal of Economic Entomology&lt;/em&gt; 80: 348-351.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;: &lt;a href=&#34;http://www.extento.hawaii.edu/kbase/crop/Type/a_lycope.htm&#34;&gt; http://www.extento.hawaii.edu/kbase/crop/Type/a_lycope.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.
+inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aculyc.htm&#34;&gt; http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aculyc.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+Insert A Name Of A Person To Contact: [Insert Again The Same E-mail
+Address](mailto:Insert E-mail Address Of That Person)
+
+ --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aculus cornutus</title>
+      <link>http://localhost:1313/pest/aculus_cornutus</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aculus_cornutus</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aculus cornutus&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Banks)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;h3 id=&#34;toc_1&#34;&gt;[= &lt;em&gt;fockeui&lt;/em&gt; &lt;code&gt;(Nalepa and Trouessart)&lt;/code&gt;]&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Prostigmata&#34;&gt;Prostigmata&lt;/a&gt;, &lt;a href=&#34;entry/Eriophyoidea&#34;&gt;Eriophyoidea&lt;/a&gt;, &lt;a href=&#34;entry/Eriophyidae&#34;&gt;Eriophyidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Silver peach mite.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: almost wherever &lt;a href=&#34;crop/Peach&#34;&gt;peaches&lt;/a&gt; are grown. In the Middle East since the late 1980s.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: Stone fruit trees (Rosaceae), including &lt;a href=&#34;crop/Almond&#34;&gt;almonds&lt;/a&gt;, &lt;a href=&#34;crop/Apricot&#34;&gt;apricots&lt;/a&gt;, &lt;a href=&#34;crop/Peach&#34;&gt;nectarines&lt;/a&gt;, &lt;a href=&#34;crop/Plum&#34;&gt;plums&lt;/a&gt; and prunes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Symptoms and economic importance&lt;/strong&gt;: The feeding of the peach silver mite causes silvering of peach foliage late in the season as well as yellow chlorotic spots on young leaves. In heavy infestations the leaves curl and may drop, plant growth is retarded and yield is affected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The mite is spindle-shaped, yellowish, about 0.18 mm in length, with a pair of backwards-pointing &lt;a href=&#34;entry/Prodorsum&#34;&gt;prodorsal&lt;/a&gt; setae. The dorsal shield bears several parallel ridges that are more pronounced in the &lt;a href=&#34;entry/Deutogyne&#34;&gt;deutogynes&lt;/a&gt;, which is also somewhat larger. The &lt;a href=&#34;entry/Opisthosoma&#34;&gt;opisthosoma&lt;/a&gt; has about 30 dorsal and 50 ventral rings. The &lt;a href=&#34;entry/Featherclaw&#34;&gt;featherclaw&lt;/a&gt; is four-rayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life history&lt;/strong&gt;: The mite is a leaf vagrant, overwintering around the host&amp;rsquo;s terminal buds as deutogynes, which appear in the autumn, and molt to &lt;a href=&#34;entry/Protogyne&#34;&gt;protogynes&lt;/a&gt; next spring. A life cycle is completed in about a fortnight, and 15-20 annual generations may be raised. Like other Eriophyidae, reproduction is by &lt;a href=&#34;entry/Arrhenotokous&#34;&gt;arrhenotoky&lt;/a&gt;; the males deposit &lt;a href=&#34;entry/Spermatophore&#34;&gt;spermatophores&lt;/a&gt; that are taken up by the females. Fecundity is host-determined, as the mite produced 41 eggs/female on plum, only 31 on sour cherry. The protogynes of the peach silver mite differ in some morphological from the deutogynes, and were formerly described as a different species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: &lt;a href=&#34;entry/Acaricide&#34;&gt;Acaricides&lt;/a&gt; in common usage against the pest include bromopropylate (Neoron), chlorobenzilate and &lt;a href=&#34;entry/Avermectins&#34;&gt;abamectin&lt;/a&gt;. The peach silver mite is not affected by &lt;a href=&#34;entry/Pyrethroid&#34;&gt;pyrethroids&lt;/a&gt; and applications of these compounds abroad have resulted in pest resurgences, probably due to killing its natural enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;BiologicalControl&#34;&gt;Biological control&lt;/a&gt;&lt;/strong&gt;: The pest appears to have several efficient natural enemies of the family &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;Phytoseiidae&lt;/a&gt; abroad, but nothing is known about them in the Middle East.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Boczek, J., Zawadski, W. and Davis, R. 1984. Some morphological and biological
+differences in &lt;em&gt;Aculus fockeui&lt;/em&gt; &lt;code&gt;(Nalepa and Trouessart)&lt;/code&gt; (Acari: Eriophyidae)
+on various host plants. &lt;em&gt;International Journal of Acarology&lt;/em&gt; &lt;strong&gt;10&lt;/strong&gt;:81-87.&lt;/p&gt;
+
+&lt;p&gt;Kondo, A. and Hiramatsu, T. 1999. Resurgences of the peach silver mite,
+&lt;em&gt;Aculus fockeui&lt;/em&gt; &lt;code&gt;(Nalepa and Trouessart)&lt;/code&gt; (Acari: Eriophyidae), induced by a
+synthetic pyrethroid fluvalinate. &lt;em&gt;Applied Entomology and Zoology&lt;/em&gt; &lt;strong&gt;34&lt;/strong&gt;:
+531-535.&lt;/p&gt;
+
+&lt;p&gt;Sternlicht, M. and Rubin, A. 1990. The peach silver mite, a new pest in
+Israel. &lt;em&gt;Ha&amp;rsquo;Sadeh&lt;/em&gt; &lt;strong&gt;70&lt;/strong&gt;: 910-912 (in Hebrew with an English summary.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ipm.ucdavis.edu/PMG/r602400211.html&#34;&gt;http://www.ipm.ucdavis.edu/PMG/r602400211.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phyllocoptruta oleivora</title>
+      <link>http://localhost:1313/pest/phyllocoptruta_oleivora</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/phyllocoptruta_oleivora</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Phyllocoptruta oleivora&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Ashmead)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Prostigmata&#34;&gt;Prostigmata&lt;/a&gt;, &lt;a href=&#34;entry/Eriophyoidea&#34;&gt;Eriophyoidea&lt;/a&gt; &lt;a href=&#34;entry/Eriophyidae&#34;&gt;Eriophyidae&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure class=&#34;figpr&#34;&gt;
+    &lt;div&gt;
+    
+        &lt;img src=&#34;static/thumbnails/phyllocoptruta-sm.jpg&#34;  /&gt;
+    
+    
+    &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Citrus rust mite, silver mite.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Almost wherever &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; is grown. Commonwealth Institute of Entomology Map #78, 1978 (revised).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: &lt;em&gt;Citrus&lt;/em&gt; spp.; &lt;em&gt;Swinglea glutinosa&lt;/em&gt; ; &lt;em&gt;Fortunella&lt;/em&gt; spp.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The citrus rust mite is wedge-shaped, yellowish in color, about 0.15 mm in length, with a pair of very short prodorsal setae. The &lt;a href=&#34;entry/Prodorsum&#34;&gt;prodorsum&lt;/a&gt; bears a six-sided cell and the
+&lt;a href=&#34;entry/Opisthosoma&#34;&gt;opisthosoma&lt;/a&gt;
+is marked by a distinct dorsal furrow. The &lt;a href=&#34;entry/Featherclaw&#34;&gt;featherclaw&lt;/a&gt; is five-rayed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Symptoms and economic importance&lt;/strong&gt;: The vagrant mites feed on the fruit, leaves and green twigs, piercing the epidermal cells and killing them. Rust-like blemishes that consist of masses of dead cells, appear on the affected areas on orange, grapefruit and mandarin fruits; on lemons and citron they are silvery. As infestation proceeds the surface of the fruit becomes russetted and bronzed, rough and scaly; peels of young fruit lose their elasticity and may shrivel. Dark spots appear on affected leaves, which may also lose their gloss, and their lower surfaces become rust-like. Infested green twigs may show blackish areas.&lt;br /&gt;
+The mite cannot feed on the russetted fruit rind and will not be found there;
+it should be looked for at the margins of the affected area, and is also very
+common around the sepals.&lt;/p&gt;
+
+&lt;p&gt;The citrus rust mite is a major pest of citrus; unless controlled it can
+affect 70-100% of the yield. Heavily infested fruit is smaller, its quality is
+reduced and it may drop; such fruit is rejected as fresh product and by the
+industry. Attack on leaves and twigs can affect next year&amp;rsquo;s growth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: The citrus rust mite develops throughout the year, its entire cycle (egg to egg) requiring about a week in summer, several weeks in winter, and the pest may raise 30 annual generations. The mite has four stages: egg, two nymphs and adults. Reproduction is indirect; &lt;a href=&#34;entry/Spermatophore&#34;&gt;spermatophores&lt;/a&gt; are deposited by males on the leaf substrate and taken up by the females. The species is &lt;a href=&#34;entry/Arrhenotokous&#34;&gt;arrhenotokous&lt;/a&gt;, each female depositing about a dozen eggs at a range of temperatures between 20-31°C.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ecology&lt;/strong&gt;: The citrus rust mite lives only on its host plants. Conditions optimal for its development are temperatures around 25°C and very high relative humidity. The mite is resistant to sub-freezing temperatures but susceptible to warm and dry winds. Consequently its populations (unless reduced by hot winds) increase during spring, remain high in the summer and decline in autumn. Mites (mostly females) disperse between patches when borne on winds and on infested plant material, such dispersal taking place throughout the year.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sampling&lt;/strong&gt;: Before fruit are about 1.5 cm in diameter, the citrus rust mite will be found mostly on the underside of young leaves. Later the mites prefer the fruit, initially feeding at protected sites, and later on its entire surface. Orchards, or parts thereof where the pest occurred in former years, should be sampled early in the season. An examination of four fruits, taken from around the tree (with hand lens of 10X or more magnification), of 1 cm² per fruit, will provide a reasonable estimate of infestation, provided 10 or more mites are present in each sample. A rapid estimate of the population can also be obtained by using standardized visual keys based on estimating infestation rates per 1 cm² of plant surface and comparing them to the keys.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Crop resistance&lt;/strong&gt;: Citrus varieties differ in their attractiveness to the citrus rust mite. Lemons, oranges, tangerines and rough lemon are very susceptible, whereas pummelo and sour orange seem to be resistant.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: Due to the rapid rate of increase of the citrus rust mite, it is usually recommended to treat it as soon as the pest is recognized, especially at sites that had experienced damage in the past. A repeat spray may be needed within 4-6 weeks. Fruit intended for processing can tolerate some cosmetic damage and may require fewer chemical treatments than fruit sold on the fresh market. &lt;a href=&#34;entry/Acaricide&#34;&gt;Acaricides&lt;/a&gt; in current common usage include bromopropylate (Neoron), dicofol, maneb, quinomethionate, abamectin and zineb compounds (e.g. metiram). Field &lt;a href=&#34;entry/Resistance_to_pesticides&#34;&gt;resistance&lt;/a&gt; to zineb has been reported from Florida, Cyprus and Israel, and resistance to dicofol was found in Florida.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Natural enemies&lt;/strong&gt;: Several predatory mites of the families &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;Phytoseiidae&lt;/a&gt; and &lt;a href=&#34;entry/Stigmaeidae&#34;&gt;Stigmaeidae&lt;/a&gt; prey on the citrus rust mite, and may be able to control the pest in combination, especially if active during early spring. None, however, appears to be either specific or capable of predictably controlling the pest. The &lt;a href=&#34;entry/Acaropathogenic_fungi&#34;&gt;acaropathogenic fungus&lt;/a&gt; &lt;em&gt;Hirsutella thompsonii&lt;/em&gt; periodically controls the citrus rust mite in Florida and has been used for this purpose.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;REFERENCES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Allen, J.C., Yang, Y. and Knapp, J.L 1995. Temperature effects on development
+and fecundity of citrus rust mite (Acari: Eriophyidae). &lt;em&gt;Environmental
+Entomology&lt;/em&gt; &lt;strong&gt;24&lt;/strong&gt;: 996-1004.&lt;/p&gt;
+
+&lt;p&gt;Bergh, J.C. 2001. Ecology and aerobiology of dispersing citrus rust mites
+(Acari: Eriophyidae) in central Florida. _ Environmental Entomology_ &lt;strong&gt;30&lt;/strong&gt;:
+318-326.&lt;/p&gt;
+
+&lt;p&gt;Childers, C.C. 1994. Biological control of phytophagous mites on Florida
+citrus utilizing predatory arthropods. In D. Rosen, F.D. Bennett and J.L.
+Capinera (Eds), &lt;em&gt;Pest Management in the Subtropics: Biological Control - A
+Florida Perspective&lt;/em&gt;. Intercept, Pp. 255-288. Andover, UK.&lt;/p&gt;
+
+&lt;p&gt;Hobza, R.F. and Jeppson, L.R. 1974. A temperature and humidity study of citrus
+rust mite employing a constant humidity air-flow technique. &lt;em&gt;Environmental
+Entomology&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;: 813-823.&lt;/p&gt;
+
+&lt;p&gt;Palevsky, E., Argov, Y., Ben-David, T. and Gerson, U. 2003. Identification and&lt;/p&gt;
+
+&lt;p&gt;evaluation of potential predators of the citrus rust mite, &lt;em&gt;Phyllocoptruta
+oleivora&lt;/em&gt;, in Israel.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Systematic and Applied Acarology&lt;/em&gt; &lt;strong&gt;8&lt;/strong&gt;: 39-48.&lt;/p&gt;
+
+&lt;p&gt;Rogers, J.S., McCoy, C.W. and Manners, M.M. 1994. Standardized visual
+comparison keys for rapid estimations of citrus rust mite (Acari: Eriophyidae)
+populations. &lt;em&gt;Journal of Economic Entomology&lt;/em&gt; &lt;strong&gt;87&lt;/strong&gt;: 1507-1512.&lt;/p&gt;
+
+&lt;p&gt;Yue, B., Sun, M. and Qiu, A. 1998. A comparison of citrus resistance to citrus
+rust mite (Acari: Eriophyidae) in the laboratory. &lt;em&gt;Systematic and Applied
+Acarology&lt;/em&gt; &lt;strong&gt;3&lt;/strong&gt;: 59-62.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ipm.ucdavis.edu/PMG/r107400511.html&#34;&gt;http://www.ipm.ucdavis.edu/PMG/r107400511.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

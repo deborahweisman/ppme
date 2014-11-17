@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>A on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/topics/a/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Tue, 16 Sep 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>ACMD</title>
+      <link>http://localhost:1313/entry/acmd</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/acmd</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;ACMD&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;ACMD (Adult Cumulative Mite Days) expresses mite population density on given sampling dates. ACMDs = [0.5 (number of mites on a prior sampling date + number of mites at the current sampling)] X interval, in days, between sampling dates.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acari</title>
+      <link>http://localhost:1313/entry/acari</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/acari</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Acari&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Arthropoda, Chelicerata, Arachnida.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Mites and ticks.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The Acari (or mites) can be recognized by having an entire, fused body, with no obvious segmentation. In this respect they resemble, within the Arachnida, only the spiders (Araneae), but the body of the latter is subdivided into a &lt;a href=&#34;entry/Cephalothorax&#34;&gt;cephalothorax&lt;/a&gt; (bearing the legs) and abdomen, whereas the body of the Acari is entire, and the legs may be borne on the anterior and posterior parts of the body. In addition, spiders usually have four pairs of simple eyes (ocelli), caudal spinnerets and do not undergo a six-legged larval stage. Mites have at most two pairs of eyes, rarely (and only in spider mites) anterior spinnerets, and their development includes a larval stage.&lt;/p&gt;
+
+&lt;p&gt;Mites are usually 0.5 mm or less in length (the ticks, or Metastigmata, can be
+twice or more that size), with an oval body, which may have a trough (the
+&lt;a href=&#34;entry/Sejugal_furrow&#34;&gt;sejugal furrow&lt;/a&gt;) between the second and third
+pair of legs. The mouthparts consists of the inner
+&lt;a href=&#34;entry/Chelicerae&#34;&gt;chelicerae&lt;/a&gt;, and the outer
+&lt;a href=&#34;entry/Palpi&#34;&gt;palpi&lt;/a&gt;. Both, which occur in diverse shapes in the
+various suborders, serve as sensory organs, for grasping, wounding and
+piercing food, as well as for &lt;a href=&#34;entry/Spermatophore&#34;&gt;spermatophore&lt;/a&gt;
+transfer by some males. Most mite &lt;a href=&#34;entry/Nymph&#34;&gt;nymphs&lt;/a&gt; and adults
+bear four pairs of legs, which also show much variation in their structure and
+function. Gas exchange is through a pair of &lt;a href=&#34;entry/Stigmata.html&#34;&gt;stigmata&lt;/a&gt;, which may be placed near the mouthparts, anteriorly on the body, or between
+and behind the legs, or lacking; their positions provide the names of the
+various suborders. A pair of ducts, the &lt;a href=&#34;entry/Peritremes.html&#34;&gt;peritremes&lt;/a&gt;, lead from the stigmata into the acarine body. The genital and anal
+apertures are usually situated between and behind the fourth pair of legs.
+Exceptions to the above general description are the
+(&lt;a href=&#34;entry/Eriophyoidea&#34;&gt;Eriophyoidea&lt;/a&gt;, the gall or rust mites, characterized by a
+small (0.1-0.3 mm), &lt;a href=&#34;entry/Annulate&#34;&gt;annulate&lt;/a&gt;, worm-like body and
+only two pairs of legs. The body of certain animal parasites, like &lt;em&gt;Demodex&lt;/em&gt;,
+is also worm-like, but they have four pairs of legs.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: Most acarine plant pests in the Middle East belong to the suborder (&lt;a href=&#34;entry/Prostigmata&#34;&gt;Prostigmata&lt;/a&gt;, including the Eriophyoidea, the spider mites (&lt;a href=&#34;entry/Tetranychidae&#34;&gt;Tetranychidae&lt;/a&gt;, the false spider mites (&lt;a href=&#34;entry/Tenuipalpidae&#34;&gt;Tenuipalpidae&lt;/a&gt;, and the &lt;a href=&#34;entry/Tarsonemidae&#34;&gt;Tarsonemidae&lt;/a&gt;. Also in the same suborder are the Trombiculidae, vectors of scrub typhus. Ticks, which suck the blood of their vertebrate hosts and transmit many diseases, are the most important acarine medical and veterinary pests. &lt;a href=&#34;pest/Rhizoglyphus_robini&#34;&gt; &lt;em&gt;Rhizoglyphus robini&lt;/em&gt;&lt;/a&gt; (Claparede) is one of the rare plant pests in the suborder &lt;a href=&#34;entry/astigmata&#34;&gt;Astigmata&lt;/a&gt;, whereas others, like &lt;a href=&#34;pest/Acarus_siro&#34;&gt;&lt;em&gt;Acarus siro&lt;/em&gt;&lt;/a&gt; L., are major pests in stored foods. Also in the same suborder are &lt;em&gt;Psoroptes&lt;/em&gt;, &lt;em&gt;Sarcoptes&lt;/em&gt; and  &lt;em&gt;Dermatophagoides&lt;/em&gt; , which cause diseases and allergy in animals and humans. Some &lt;a href=&#34;entry/Mesostigmata&#34;&gt;Mesostigmata&lt;/a&gt; parasitize chickens (&lt;em&gt;Dermanyssus&lt;/em&gt;) and bees (&lt;em&gt;Varroa&lt;/em&gt;). The &lt;a href=&#34;entry/Phytoseiidae&#34;&gt;Phytoseiidae&lt;/a&gt;, also in this suborder, are major natural enemies of acarine plant pests and thrips (&lt;a href=&#34;entry/Thysanoptera&#34;&gt;Thysanoptera&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life history&lt;/strong&gt;: The great diversity within the subclass is reflected in the very different life histories and habitats of its members. The common cycle consists of egg, &lt;a href=&#34;entry/larva&#34;&gt;larva&lt;/a&gt;, 2-3 &lt;a href=&#34;entry/Nymph&#34;&gt;nymphal&lt;/a&gt; stages and adults. However, one or more of the juvenile stages may be omitted; the females in some families giving birth to larvae, nymphs or even to adults. In other cases one and even two nymphs are repressed, and some of the stages may be &lt;a href=&#34;entry/Heteromorphic&#34;&gt;heteromorphic&lt;/a&gt; to the others, differing in habitat, life style and diet. Acari are usually terrestrial and feed on diverse diets, such as dead organic matter, on fungi (some being pests of mushrooms), on green plants, on living prey or they are external or internal parasite of invertebrates or vertebrates. The Hydrachnidia, a group of superfamilies in the suborder Prostigmata, are aquatic (living in fresh or in salt water), parasitizing the larvae of mosquitoes and midges &lt;a href=&#34;entry/Diptera&#34;&gt;Diptera&lt;/a&gt; as well as water bugs (&lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt; ), beetles (&lt;a href=&#34;entry/Coleoptera&#34;&gt;Coleoptera&lt;/a&gt;)and other invertebrates.&lt;/p&gt;
+
+&lt;p&gt;An acarine generation can be quite rapid, requiring less than one week,
+although soil mites may develop only a single (or less) annual generation.
+Several plant-feeding and predatory species undergo a winter or (seldom)
+summer &lt;a href=&#34;entry/Diapause&#34;&gt;diapause&lt;/a&gt;. Mite reproduction may be entirely
+sexual, by &lt;a href=&#34;entryAarrhenotokous&#34;&gt;arrhenotoky&lt;/a&gt; or totally asexual
+(&lt;a href=&#34;entry/Thelytokous&#34;&gt;thelytokous&lt;/a&gt;). Some parasitic mites (like
+&lt;em&gt;Varroa&lt;/em&gt;) produce only 5-7 progeny, whereas ticks can lay thousands of eggs.
+The fecundity of other species lies between these extremes, often being around
+50 offspring per female. Mites were found in all habitats where at least some
+humidity is available. Besides cultivated and uncultivated land, and diverse
+invertebrate and vertebrate hosts and their nests, they also occur near the
+north and south poles, on mountain peaks where no other arthropods live, in
+deserts, in the littoral, in warm springs (50°C) and down in the deep sea (to
+a depth of 5,000 m). Most Acari require high relative humidities for survival
+and reproduction, but some spider mites Tetranychidae thrive under relatively
+arid conditions. Acarine dispersal is by active walking or swimming (water
+mites), by &lt;a href=&#34;entry/Phoresy&#34;&gt;phoresy&lt;/a&gt; on vertebrates and invertebrates,
+by winds (&lt;a href=&#34;entry/Webbing&#34;&gt;webbing&lt;/a&gt; spider mites, many rust mites) and
+by being on transported commercial plants. Dispersal is usually by one stage,
+whether a juvenile (the &lt;a href=&#34;entry/Hypopus&#34;&gt;hypopus&lt;/a&gt; of the Astigmata) or
+an adult (spider mites). The Acari are divided into two orders, the
+&lt;a href=&#34;entry/Parasitiformes&#34;&gt;Parasitiformes&lt;/a&gt; and the
+&lt;a href=&#34;entry/Acariformes&#34;&gt;Acariformes&lt;/a&gt;. The former contains the ticks
+(Metastigmata) and the Mesostigmata. The latter order consists of the
+Astigmata, Cryptostigmata (also known as Oribatei or Oribatida) and
+Prostigmata. Approximately 50,000 species of mites have been named, but this
+is probably only 10% of the world acarine fauna.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Alberti, G. and Coons, L.B. 1999. Acari: mites. In: &lt;em&gt;Microscopic Anatomy of
+Invertebrates&lt;/em&gt; (Ed. by F.W. Harrison &amp;amp; R.F. Foelix), Wiley-Liss, New York, pp.
+515-1265.&lt;/p&gt;
+
+&lt;p&gt;Halliday, R.B., OConnor, B.M. and Baker, A.S. 1999. Global diversity of mites.
+In: &lt;em&gt;Nature and Human Society: the Quest for a Sustainable World&lt;/em&gt; (Ed. by P.H.
+Raven), National Academy Press, Washington, pp. 192-203.&lt;/p&gt;
+
+&lt;p&gt;Hughes, A.M. 1976. &lt;em&gt;The Mites of Stored Food and Houses&lt;/em&gt;. Her Majesty&amp;rsquo;s
+Stationery Office, London.&lt;/p&gt;
+
+&lt;p&gt;Jeppson, L.R., Keifer, H.H. and Baker, E.W. 1975. &lt;em&gt;Mites Injurious to Economic
+Plants&lt;/em&gt;. University California Press, Berkeley, California.&lt;/p&gt;
+
+&lt;p&gt;Krantz, G.W. 1978. &lt;em&gt;A Manual of Acarology&lt;/em&gt;, 2nd Edition. Oregon State
+University Book Store, Corvallis, Oregon.&lt;/p&gt;
+
+&lt;p&gt;Walter, D.E. and Proctor, H.C. 1999. &lt;em&gt;Mites: Ecology, Evolution and
+Behaviour&lt;/em&gt;. CABI, Sydney.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A website advertising books about the Acari&lt;/strong&gt;: &lt;a href=&#34;http://www.intercept.co.uk/gb/not.asp?id=OX2Y3OLAXASOFJ&#34;&gt;http://www.intercept.co.uk/gb/not.asp?id=OX2Y3OLAXASOFJ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ufsia.ac.be/Arachnology/Pages/Acari.html#mite4&#34;&gt;http://www.ufsia.ac.be/Arachnology/Pages/Acari.html#mite4&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chez.com/walravenseric/acariens.htm&#34;&gt;http://www.chez.com/walravenseric/acariens.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.nhm.ac.uk/hosted_sites/acarology/links.html&#34;&gt;http://www.nhm.ac.uk/hosted_sites/acarology/links.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.wm.edu/biology/mites/&#34;&gt;http://www.wm.edu/biology/mites/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sel.barc.usda.gov/acari/index.html&#34;&gt;http://www.sel.barc.usda.gov/acari/index.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acaridae</title>
+      <link>http://localhost:1313/entry/acaridae</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/acaridae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Acaridae&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Acariformes&#34;&gt;Acariformes&lt;/a&gt;, &lt;a href=&#34;entry/Astigmata&#34;&gt;Astigmata&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Acarids.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Whitish, slow moving mites whose &lt;a href=&#34;entry/Prodorsum&#34;&gt;prodorsum&lt;/a&gt; is
+usually covered by a shield-like sclerite. They have a &lt;a href=&#34;entry/Sejugal_Furrow&#34;&gt;sejugal
+furrow&lt;/a&gt;, carry long, slightly barbed setae on the
+&lt;a href=&#34;entry/Hysteronotum&#34;&gt;hysteronotum&lt;/a&gt;, and their tarsi bear well-developed
+&lt;a href=&#34;entry/Empodium&#34;&gt;empodial&lt;/a&gt; claws. The
+&lt;a href=&#34;entry/Hypopus&#34;&gt;hypopodes&lt;/a&gt; possess dissimilar morphological aspects.
+Due to their dentate mouthparts acarids can consume particulate foods, such as
+plant parts, soft-tissued animals and seeds. Acarids abound in leaf litter and
+in the upper strata of soils rich in organic matter, as well as in dried meat
+and fruits and in decomposing animal droppings.&lt;/p&gt;
+
+&lt;p&gt;A few occur on plants or in standing waters and they may contaminate
+laboratory cultures [e.g. &lt;em&gt;Tyrophagus putrescentiae&lt;/em&gt; (&lt;code&gt;Schrank&lt;/code&gt;), which can also
+cause dermatitis and allergies]. Acarids are especially abundant in stored
+foods, of which they can be major pests (e.g. the flour mite, &lt;em&gt;Acarus siro&lt;/em&gt;
+L., which although present in the Middle East, is not considered to be an
+economic problem). The reproduction of most species is sexual, the sex ratio
+tending to be F1:M1. When the younger stages of most non-parasitic Acaridae
+are exposed to adverse conditions (e.g. low relative humidity, extreme
+temperature, lack of adequate food) they molt to become hypopodes, whose
+development may continue when suitable conditions return.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Rhizoglyphus_robini&#34;&gt;&lt;em&gt;Rhizoglyphus robini&lt;/em&gt;&lt;/a&gt; (&lt;code&gt;Claparede&lt;/code&gt;), a soil-borne
+species, is one of the few plant pests in this family.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hughes, A.M. 1976. &lt;em&gt;The Mites of Stored Food and Houses&lt;/em&gt;. Her Majesty&amp;rsquo;s
+Stationery Office, London.&lt;/p&gt;
+
+&lt;p&gt;OConnor, B.M. 1982. Astigmata. In: &lt;em&gt;Synopsis and Classification of Living
+Organisms&lt;/em&gt; (Ed. by S.P. Parker), pp. 146-69. McGraw-Hill, N.Y.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acariformes</title>
+      <link>http://localhost:1313/entry/acariformes</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/acariformes</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Acariformes&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;One of the two orders in the Acari, which includes the suborders Astigmata, Cryptostigmata and Prostigmata.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Accessory glands</title>
+      <link>http://localhost:1313/entry/accessory_glands</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/accessory_glands</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Accessory glands&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Also termed paragonadal glands, they are associated with the reproductive system of males and females. These glands sequester or produce compounds that help in the maintenance, development and control of reproduction, or contribute to the structure of the spermatophore in males or to that of the egg-case, or to the adhesion of eggs to the substrate.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acetamiprid</title>
+      <link>http://localhost:1313/entry/acetamiprid</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/acetamiprid</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Acetamiprid&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;A neonicotinoid pesticide that is effective against sucking insects (like aphids, thrips and whiteflies) and Lepidoptera. A trade name is Mospilan.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acrididae</title>
+      <link>http://localhost:1313/entry/acrididae</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/acrididae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Acrididae&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;:  &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Orthoptera&#34;&gt;Orthoptera&lt;/a&gt;, &lt;a href=&#34;entry/Acridoidea&#34;&gt;Acridoidea&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Short-horned grasshoppers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;A family of short-horned grasshoppers with a short ovipositor. The
+&lt;a href=&#34;entry/Tympanum&#34;&gt;tympanum&lt;/a&gt; is located on the first abdominal
+&lt;a href=&#34;entry/Tergum&#34;&gt;tergum&lt;/a&gt;, which is fused with the
+&lt;a href=&#34;entry/Metathorax&#34;&gt;metathorax&lt;/a&gt;. The &lt;a href=&#34;entry/Tarsus&#34;&gt;tarsus&lt;/a&gt;
+is three-segmented.&lt;/p&gt;
+
+&lt;p&gt;This family includes species designated as locusts on the basis of
+morphological and behavioral characteristics. Locusts differ from other
+acridoid grasshopper species in the degree to which they display
+&lt;a href=&#34;entry/Polymorphism&#34;&gt;polymorphism&lt;/a&gt; and &lt;a href=&#34;entry/Phase&#34;&gt;phase&lt;/a&gt;-related behavior. The term &amp;ldquo;phase&amp;rdquo; is used here in its broad sense as
+encompassing a continuous polymorphism with
+&amp;ldquo;&lt;a href=&#34;entry/Solitariform&#34;&gt;solitariform&lt;/a&gt;&amp;rdquo; referring to the extreme
+manifestation of isolated-type &lt;a href=&#34;entry/Morphometrics&#34;&gt;morphometrics&lt;/a&gt;
+and cryptic coloration, while &amp;ldquo;&lt;a href=&#34;entry/Gregariform&#34;&gt;gregariform&lt;/a&gt;&amp;ldquo;
+denotes contrasting color patterns and characteristic morphometrics dominant
+in crowded populations. Gregarious phase is reinforced by the persistence of
+density and duration of isolation or aggregation. This applies not only to the
+life history of the individual locust but to the continuity below or above a
+certain density over several generations. It follows that locust phase is not
+an &amp;ldquo;all or none&amp;rdquo; phenomenon. Morphology, coloration and behavior are expressed
+to varying degrees depending on the density and duration of gregarization. In
+fact, to complicate matters, there are some indications that behavioral
+characteristics of acridid grasshoppers not normally considered locusts are
+density dependent. The line of demarcation between &amp;ldquo;simply a grasshopper&amp;rdquo; and
+&amp;ldquo;definitely a locust&amp;rdquo; is not that clear.&lt;/p&gt;
+
+&lt;p&gt;After attaining reproductive competence, terminal oocytes develop
+synchronously in &lt;a href=&#34;entry/Panoistic&#34;&gt;panoistic&lt;/a&gt; ovaries. The gravid
+female of most species deposits egg-pods in the soil on bare ground or close
+to roots of vegetation, probing the soil with her
+&lt;a href=&#34;entry/Ovipositor&#34;&gt;ovipositor&lt;/a&gt; to chose appropriate soil composition,
+moisture, pH and salinity The size and shape of egg-pods are characteristic
+for each species.&lt;/p&gt;
+
+&lt;p&gt;Different locust species &lt;a href=&#34;entry/Migration&#34;&gt;migrate&lt;/a&gt; to different
+extent, while non-migratory strains of typical locust species, or strains with
+reduced migratory capacity or absence of gregarious coloration, have been
+noted in isolated locations. This illustrates the potential for plastic
+response which may occasionally lead to population outbreaks of minor
+grasshopper species, inflicting chronic annual damage to crops which may
+exceed the damage caused in peripheral locust invasion zones by occasional
+swarms.&lt;/p&gt;
+
+&lt;p&gt;Three acridid locusts species, belonging to three subfamilies, are presently
+of variable agricultural importance in the Middle East: The Desert Locust
+(&lt;a href=&#34;pest/Schistocerca_gregaria&#34;&gt;&lt;em&gt;Schistocerca gregaria&lt;/em&gt;&lt;/a&gt;) (Cyrtacanthacridinae),
+which has the potential to cause considerable damage, The Migratory Locust
+(&lt;a href=&#34;pest/Locusta_migratoria&#34;&gt;&lt;em&gt;Locusta migratoria&lt;/em&gt;&lt;/a&gt;) (Oedipodinae) which has
+established local populations and is of minor importance and The Moroccan
+Locust (&lt;em&gt;Dociostaurus maroccanus&lt;/em&gt;) (Gomphocerinae), which may occasionally
+cause damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Centre for Overseas Pest Research (COPR) 1982. &lt;em&gt;The Locust and Grasshopper
+Agricultural Manual&lt;/em&gt;. London.&lt;/p&gt;
+
+&lt;p&gt;Fishelson, L. 1985. &lt;em&gt;Orthoptera: Acridoidea. Fauna Palaestina - Insecta III&lt;/em&gt;.
+The Israel Academy of Sciences and Humanities, Jerusalem.&lt;/p&gt;
+
+&lt;p&gt;Uvarov, VB. 1966. &lt;em&gt;Grasshoppers and Locusts&lt;/em&gt;, Vol. 1, Cambridge: Cambridge
+University Press.&lt;/p&gt;
+
+&lt;p&gt;Uvarov, VB. 1977. &lt;em&gt;Grasshoppers and Locusts&lt;/em&gt;, Vol. 2, London: Centre for
+Overseas Pest Research.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Association for Applied Acridology International:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.uwyo.edu/entomology/grasshoppers/aaaitoc.htm&#34;&gt;http://www.uwyo.edu/entomology/grasshoppers/aaaitoc.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://eny3005.ifas.ufl.edu/lab1/Orthopteroid/Acridid.htm&#34;&gt;http://eny3005.ifas.ufl.edu/lab1/Orthopteroid/Acridid.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.geocities.com/brisbane_hoppers/Acrididae.htm&#34;&gt;http://www.geocities.com/brisbane_hoppers/Acrididae.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Acridoidea</title>
+      <link>http://localhost:1313/entry/acridoidea</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/acridoidea</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Acridoidea&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ants</title>
+      <link>http://localhost:1313/entry/ants</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/ants</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;ANTS&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Holometabola&#34;&gt;Holometabola&lt;/a&gt;, &lt;a href=&#34;entry/Hymenoptera&#34;&gt;Hymenoptera&lt;/a&gt;, &lt;a href=&#34;entry/Formicidae&#34;&gt;Formicidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Ants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Commonly known as ants, this a large family (ca 8,000 species) in the order Hymenoptera. All ants are social, living in nests constructed in the soil, in trees or in other habitats, including houses. Each nest may contain thousands of individuals. Ants often occur in castes: queens (usually one per nest), workers and soldiers. A well-known pest is the Argentine ant, &lt;em&gt;Iridomyrmex humilis&lt;/em&gt; &lt;code&gt;(Mayer)&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Cosmopolitan.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants:&lt;/strong&gt; Ants occur on most nectar-producing plants or on those infested by &lt;a href=&#34;entry/Honeydew&#34;&gt;honeydew&lt;/a&gt;-excreting insects, as well as on the seedlings of various plants.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: Many ants are blackish, although red and red-brown forms are also known. The second (sometimes also the third) segment of the abdomen is constricted, scale-like, and the antennae are elbowed, its first segment being the longest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: Ants, such as &lt;em&gt;Tetramorium signatum&lt;/em&gt; &lt;code&gt;Menozzi&lt;/code&gt;, may gnaw at the roots of ** &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt;** seedlings, causing wilting and death. Other, albeit minor damage, is caused by feeding on the foliage by &lt;em&gt;Acantholepis frauenfeldi&lt;/em&gt; &lt;code&gt;Smith&lt;/code&gt; and &lt;em&gt;Cataglyphis bicolor&lt;/em&gt; &lt;code&gt;Andre&lt;/code&gt;. Losses may also be due to the harvesting (and thus disappearance) of seeds, often by the harvester ant, &lt;em&gt;Messor semirufus&lt;/em&gt; &lt;code&gt;E. Andre&lt;/code&gt;. Indirect damage is caused by &lt;em&gt;Crematogaster jehovae&lt;/em&gt; &lt;code&gt;Forel&lt;/code&gt; and &lt;em&gt;Camponotus compressus&lt;/em&gt; Fabricius, which feed on the honeydew excreted by various &lt;a href=&#34;entry/Coccoidea&#34;&gt;scale insects&lt;/a&gt;  and  &lt;a href=&#34;entry/Aphidoidea&#34;&gt;aphids&lt;/a&gt;, thereby hindering the control of the pests by their natural enemies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: Ants live in annual or perennial nests. The males and young queens, which occur only once or twice a year, fly out of the nest in a nuptial flight, after which the queens shed their wings and the males usually die. The &lt;a href=&#34;entry/Queen&#34;&gt;queen&lt;/a&gt; then begins to lay eggs from which the &lt;a href=&#34;entry/Larva&#34;&gt;larvae&lt;/a&gt; emerge, tended by worker ants. Some of the latter also forage for food. Some species have a special soldier caste, whose members possess enlarged &lt;a href=&#34;entry/Mandibles&#34;&gt;mandibles&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: Pesticide dustings of the nests or around tree trunks usually hinders the appearance and activities of the ants. Control measures may also be aimed at honeydew producing pests, such as &lt;a href=&#34;entry/Pseudococcidae&#34;&gt;&lt;strong&gt;mealybugs&lt;/strong&gt;&lt;/a&gt;, that infest the host plants. &lt;a href=&#34;entry/Organophosphate&#34;&gt;Organophosphates&lt;/a&gt;, applied as dusts or in &lt;a href=&#34;entry/Microencapsulated&#34;&gt;microencapsulated&lt;/a&gt; form, limited the ants’ access to the mealybugs, thus promoting the activities of their &lt;a href=&#34;entry/Biological_Control&#34;&gt;&lt;strong&gt;natural enemies&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Avidov, Z. and Harpaz, I. 1969. &lt;em&gt;Plant Pests of Israel&lt;/em&gt;. Israel Universities
+Press, Jerusalem, pp. 549.&lt;/p&gt;
+
+&lt;p&gt;Gross, S., Birati, Y. And Gal, S. 2001. The application of pesticides as dusts
+and in microencapsulated form to limit the dispersal of ant populations on
+citrus trees. &lt;em&gt;Alon Ha’Notea&lt;/em&gt; &lt;strong&gt;55&lt;/strong&gt;: 212-214 (in Hebrew).&lt;/p&gt;
+
+&lt;p&gt;Hőlldobler, B. and Wilson, E.O. 1990. &lt;em&gt;The Ants.&lt;/em&gt; Springer-Verlag, Berlin, pp.
+732.&lt;/p&gt;
+
+&lt;p&gt;Kugler, Y. 1989. Formicidae. In: Alon, A. (Ed.) &lt;em&gt;Plants and Animals of the
+Land of Israel&lt;/em&gt;, Vol. 3, pp. 371-389 (in Hebrew).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.antweb.org/&#34;&gt;http://www.antweb.org/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.ipm.ucdavis.edu/PMG/PESTNOTES/pn7411.html&#34;&gt;http://www.ipm.ucdavis.edu/PMG/PESTNOTES/pn7411.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aphididae</title>
+      <link>http://localhost:1313/entry/aphididae</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/aphididae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Aphididae&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha,&lt;/a&gt; &lt;a href=&#34;Aphidoidea&#34;&gt;Aphidoidea&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Aphids, plant lice&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: World-wide, with close to 4,000 described species that are more abundant in the Holarctic region.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology:&lt;/strong&gt; Relatively small, soft-skinned insects with a clear separation into head, thorax, or abdomen, and functional sucking mouth parts in both sexes. The &lt;a href=&#34;entry/Rostrum&#34;&gt;rostrum&lt;/a&gt; is made up of 4-5 segments and the antennae have 4-6 segments. The translucent wings, when present, bear reduced venation. The fifth or sixth abdominal segments carry a pair of dorsal &lt;a href=&#34;entry/Siphunculi&#34;&gt;siphunculi&lt;/a&gt; and the terminal segment bears an extension, the &lt;a href=&#34;entry/Cauda&#34;&gt;cauda&lt;/a&gt;. Adults may be &lt;a href=&#34;entry/Alate&#34;&gt;alate&lt;/a&gt; (and then usually with darker bodies) or &lt;a href=&#34;entry/Apterous&#34;&gt;apterous&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life Histories&lt;/strong&gt;: All Aphididae are plant feeders and usually undergo four &lt;a href=&#34;entry/Nymph&#34;&gt;nymphal&lt;/a&gt; stages. They may lay eggs as well as being &lt;a href=&#34;entry/Viviparous&#34;&gt;viviparous&lt;/a&gt; and show a diversity of developmental histories, species changing between &lt;a href=&#34;entry/Parthenogenesis&#34;&gt;parthenogenesis&lt;/a&gt; and sexual reproduction, and sometimes alternating between unrelated host plants. A major factor that affects the population fluctuations of many aphids in the Middle East is their susceptibility to &lt;a href=&#34;entry/Khamsin&#34;&gt;khamsins&lt;/a&gt;. Due to this and other local climatic conditions, numerous species that infest &lt;a href=&#34;entry/Perennial&#34;&gt;perennials&lt;/a&gt; remain on their hosts throughout the year and reproduce only by parthenogenesis.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic Importance&lt;/strong&gt;: The aphids, which are &lt;a href=&#34;entry/Phloem&#34;&gt;phloem&lt;/a&gt; feeders, include many major plant pests. Their damage is due to sucking out nutrients from host plants and injecting salivary toxins into them, inducing the formation of &lt;a href=&#34;entry/Galls&#34;&gt;galls&lt;/a&gt;, secreting copious amounts of &lt;a href=&#34;entry/HoneyDew&#34;&gt;honey dew&lt;/a&gt; that serve as substrates for &lt;a href=&#34;entry/SootyMolds&#34;&gt;sooty mold&lt;/a&gt; fungi, and to transmitting harmful plant viruses. They attack annuals as well as perennials and cause much damage to greenhouse and house plants, nut and fruit trees and to forests.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Distribution and Ecology&lt;/strong&gt;: Aphids occur in nearly all available botanical habitats from the tundra to the tropics and infest all parts of the host including the leaves, branches, trunks, fruits, and roots. Their natural enemies include many generalist predators belonging to the &lt;a href=&#34;Coleoptera&#34;&gt;Coleoptera&lt;/a&gt;, Hemiptera and &lt;a href=&#34;Neuroptera&#34;&gt;Neuroptera&lt;/a&gt;, as well as  &lt;a href=&#34;Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt; &lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoids&lt;/a&gt;, especially of the family &lt;a href=&#34;entry/Aphidiidae&#34;&gt;Aphidiidae&lt;/a&gt;, which are specialized on aphids.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aphid pests included in this compendium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Acyrthosiphon_Pisum&#34;&gt;&lt;em&gt;Acyrthosiphon pisum&lt;/em&gt;&lt;/a&gt;  (Harris)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Craccivora&#34;&gt;&lt;em&gt;Aphis craccivora&lt;/em&gt;&lt;/a&gt;  Koch&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Favae&#34;&gt;&lt;em&gt;Aphis fabae&lt;/em&gt;&lt;/a&gt;  Scopoli&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Gloverii&#34;&gt;&lt;em&gt;Aphis gossypii&lt;/em&gt;&lt;/a&gt;  Glover&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Pomi&#34;&gt;&lt;em&gt;Aphis nerii&lt;/em&gt;&lt;/a&gt;   Boyer de Fonscolombe&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Pomi&#34;&gt;&lt;em&gt;Aphis pomi&lt;/em&gt;&lt;/a&gt;  De Geer&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Punicae&#34;&gt;&lt;em&gt;Aphis punicae&lt;/em&gt; &lt;/a&gt;  Passerini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Spiraecola&#34;&gt;&lt;em&gt;Aphis spiraecola&lt;/em&gt;&lt;/a&gt;  Patch&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Brachycaudus_Amygdalinus&#34;&gt;&lt;em&gt;Brachycaudus amygdalinus&lt;/em&gt;&lt;/a&gt;  (Schouteden)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Brachycaudus_Helichrysi&#34;&gt;&lt;em&gt;Brachycaudus helichrysi&lt;/em&gt; &lt;/a&gt;  (Kaltenbach)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Brachycaudus_Schwartzi&#34;&gt;&lt;em&gt;Brachycaudus schwartzi&lt;/em&gt;&lt;/a&gt;  (Börner)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Brevicoryne_Brassicae&#34;&gt;&lt;em&gt;Brevicoryne brassicae&lt;/em&gt;&lt;/a&gt;  (L.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Favae&#34;&gt;&lt;em&gt;Dysaphis plantaginea&lt;/em&gt;&lt;/a&gt; (AphisFavae) (Passerini)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Eriosoma_Lanigerum&#34;&gt;&lt;em&gt;Eriosoma lanigerum&lt;/em&gt;&lt;/a&gt;  (Hausmann)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Hyalopterous_Pruni&#34;&gt;&lt;em&gt;Hyalopterus pruni&lt;/em&gt;&lt;/a&gt; (Geoffroy)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Macrosiphum_Rosae&#34;&gt;&lt;em&gt;Macrosiphum rosae&lt;/em&gt;&lt;/a&gt;  (L.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Myzus_Persicae&#34;&gt;&lt;em&gt;Monellia caryella&lt;/em&gt;  (Fitch) &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Myzus_Persicae&#34;&gt;&lt;em&gt;Myzus persicae&lt;/em&gt;&lt;/a&gt;  (Sulzer)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Pentalonia_Nigronervosa&#34;&gt;&lt;em&gt;Pentalonia nigronervosa&lt;/em&gt;&lt;/a&gt;  Coquerel&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Pterochloroides_Persicae&#34;&gt;&lt;em&gt;Pterochloroides persicae&lt;/em&gt;&lt;/a&gt;  (Cholodkovsky)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Rhopalosiphum_Maidis&#34;&gt;&lt;em&gt;Rhopalosiphum maidis&lt;/em&gt;&lt;/a&gt;  (Fitch)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/RhopalosiphumRufiabdominalis&#34;&gt;&lt;em&gt;Rhopalosiphum rufiabdominalis&lt;/em&gt; &lt;/a&gt;  (Sasaki)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Therioaphis_Trifolii&#34;&gt;&lt;em&gt;Therioaphis trifolii&lt;/em&gt;&lt;/a&gt; (Monell)  [=&lt;em&gt;maculata&lt;/em&gt;
+ (Buckton) ]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Toxoptera_Aurantii&#34;&gt;&lt;em&gt;Toxoptera aurantii&lt;/em&gt;&lt;/a&gt; (Boyer de Fonscolombe)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Minks, A.K. and Harrewijn, P. 1987-1989. &lt;em&gt;Aphids. Their Biology, Natural
+Enemies and Control&lt;/em&gt;, Parts A-C. Elsevier, Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;Swirski, E. and Amitai, S. 1999. Annotated list of aphids (Aphidoidea) in
+Israel. &lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;33&lt;/strong&gt;: 1-120.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.geocities.com/brisbane_bugs/Aphid.htm&#34;&gt;http://www.geocities.com/brisbane_bugs/Aphid.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.agrobiologicals.com/glossary/G881.htm&#34;&gt;http://www.agrobiologicals.com/glossary/G881.htm&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Aphidoidea</title>
+      <link>http://localhost:1313/entry/aphidoidea</link>
+      <pubDate>Tue, 16 Sep 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/aphidoidea</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Aphidoidea&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;Taxonomic placing: Insecta, &lt;a href=&#34;/mepests/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;,
+&lt;a href=&#34;/mepests/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;,
+&lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Common name: Aphids, plant lice.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: World-wide, with more species in the Northern temperate regions. This superfamily consists of close to 5,000 described species that are usually (although not universally) assigned to three families: Adelgidae (=Chermesidae), &lt;a href=&#34;entry/Phylloxeridae&#34;&gt;Phylloxeridae&lt;/a&gt; and &lt;a href=&#34;Aphididae&#34;&gt;Aphididae&lt;/a&gt;. The former two are sometimes separated from the latter family because they reproduce only by depositing eggs, whereas the Aphididae lay eggs as well as being &lt;a href=&#34;entry/Viviparous&#34;&gt;viviparous&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: Relatively small, soft-skinned insects with a clear separation into head, thorax, or abdomen, and functional sucking mouth parts in both sexes. The long &lt;a href=&#34;entry/Rostrum&#34;&gt;rostrum&lt;/a&gt; consists of 4-5 segments and the antennae have 3-6 segments. The translucent wings, when present, bear reduced venation. The fifth or sixth abdominal segments carry a pair of dorsal funnel-like appendages, the &lt;a href=&#34;entry/Siphunculi&#34;&gt;siphunculi&lt;/a&gt; (or cornicles) and the hind segment has a tail-like appendage, termed &lt;a href=&#34;entry/Cauda&#34;&gt;cauda&lt;/a&gt;. Adults may be &lt;a href=&#34;entry/Alate&#34;&gt;alate&lt;/a&gt; (winged) or &lt;a href=&#34;entry/Apterous&#34;&gt; apterous&lt;/a&gt; (lacking wings), and a few species are polymorphic in their larval stages.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life Histories&lt;/strong&gt;: All Aphidoidea are plant feeders and usually undergo four &lt;a href=&#34;entry/Nymph&#34;&gt;nymphal&lt;/a&gt; stages. They show a diversity of developmental histories, species alternating between &lt;a href=&#34;entry/Parthenogenesis&#34;&gt;parthenogenetic&lt;/a&gt; and sexual generations; the occurrence of the latter is often induced by changes in daylight length and temperature. Many species shift when winged between unrelated host plants. This may be induced by crowding, degradation of food resources, temperature and photoperiod. Many species are attended and protected by ants, which exploit the aphid&amp;rsquo;s &lt;a href=&#34;entry/Honeydew&#34;&gt;honeydew&lt;/a&gt; and concurrently hinder the &lt;a href=&#34;/mepests/BiologicalControl&#34;&gt;biological control&lt;/a&gt; of pest species.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic Importance&lt;/strong&gt;: The aphids, which are &lt;a href=&#34;entry/Phloem&#34;&gt;phloem&lt;/a&gt; feeders, include many major plant pests. Damage may from depletion of nutrients from host plants, injection salivary toxins that induce deformation, including &lt;a href=&#34;entry/Gall&#34;&gt;galls&lt;/a&gt;, secreting copious amounts of honey dew that serve as substrates to &lt;a href=&#34;entry/SootyMolds&#34;&gt;sooty mold&lt;/a&gt; fungi, and the transmission of many plant viruses. Aphids attack annuals as well as perennials and cause much damage to nut and fruit trees, forests, and greenhouse crops, including &lt;a href=&#34;/mepests/Ornamentals&#34;&gt;ornamentals&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Distribution and Ecology&lt;/strong&gt;: Aphids occur in nearly all available botanical habitats, from the tundra to the tropics, and are found on all parts of host plants: leaves, branches, trunks, fruits, and roots.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Phylloxerid pests included in this compendium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphanostigma_Piri&#34;&gt;&lt;em&gt;Aphanostigma piri&lt;/em&gt;&lt;/a&gt; (Cholodkovsky)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Daktulosphaira_Vitifoliae&#34;&gt;&lt;em&gt;Daktulosphaira vitifoliae&lt;/em&gt;&lt;/a&gt;(Fitch)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Aphid pests included in this compendium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Acyrthosiphon_Pisum&#34;&gt;&lt;em&gt;Acyrthosiphon pisum&lt;/em&gt;&lt;/a&gt; (Harris)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Craccivora&#34;&gt;&lt;em&gt;Aphis craccivora&lt;/em&gt;&lt;/a&gt; Koch&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Fabae&#34;&gt;&lt;em&gt;Aphis fabae&lt;/em&gt;&lt;/a&gt; Scopoli&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Gloverii&#34;&gt;&lt;em&gt;Aphis gossypii&lt;/em&gt;&lt;/a&gt;
+Glover&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_nerii&#34;&gt;&lt;em&gt;Aphis nerii&lt;/em&gt;&lt;/a&gt; Boyer de Fonscolombe&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Aphis_Pomi&#34;&gt;&lt;em&gt;Aphis pomi&lt;/em&gt;&lt;/a&gt; De Geer&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/AphisPunicae&#34;&gt;&lt;em&gt;Aphis punicae&lt;/em&gt;&lt;/a&gt; Passerini&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/AphisSpiraecola&#34;&gt;&lt;em&gt;Aphis spiraecola&lt;/em&gt;&lt;/a&gt; Patch&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Brachycaudus_Amygdalinus&#34;&gt;&lt;em&gt;Brachycaudus amygdalinus&lt;/em&gt;&lt;/a&gt;
+(Schouteden)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/BrachycaudusHelichrysi&#34;&gt;&lt;em&gt;Brachycaudus helichrysi&lt;/em&gt; &lt;/a&gt; (Kaltenbach)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Brachycaudus_Schwartzi&#34;&gt;&lt;em&gt;Brachycaudus schwartzi&lt;/em&gt;&lt;/a&gt;(Börner)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Brevicoryne_Brassicae&#34;&gt;&lt;em&gt;Brevicoryne brassicae&lt;/em&gt;&lt;/a&gt;
+ (Brachycaudus Amygdalinus) L.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Dysaphis+Plantaginea&#34;&gt;&lt;em&gt;Dysaphis plantaginea&lt;/em&gt;&lt;/a&gt; (Passerini)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Eriosoma_Lanigerum&#34;&gt;&lt;em&gt;Eriosoma lanigerum&lt;/em&gt;&lt;/a&gt;
+(Hausmann) (SH)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Hyalopterous_Pruni&#34;&gt;&lt;em&gt;Hyalopterus pruni&lt;/em&gt;&lt;/a&gt; (Geoffroy)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Macrosiphum_Rosae&#34;&gt;&lt;em&gt;Macrosiphum rosae&lt;/em&gt;&lt;/a&gt; (L.)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Monellia_Caryella&#34;&gt;&lt;em&gt;Monellia caryella&lt;/em&gt;&lt;/a&gt; (Fitch)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Myzus_Persicae&#34;&gt;&lt;em&gt;Myzus persicae&lt;/em&gt;&lt;/a&gt;
+(Sulzer)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Pentalonia_Nigronervosa&#34;&gt;&lt;em&gt;Pentalonia nigronervosa&lt;/em&gt;&lt;/a&gt; Coquerel&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Pterochloroides_Persicae&#34;&gt;&lt;em&gt;Pterochloroides
+persicae&lt;/em&gt;&lt;/a&gt;
+(Cholodkovsky)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Rhopalosiphum_Maidis&#34;&gt;&lt;em&gt;Rhopalosiphum maidis&lt;/em&gt;&lt;/a&gt; (Fitch)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Rhopalosiphum_Rufiabdominalis&#34;&gt;&lt;em&gt;Rhopalosiphum rufiabdominalis&lt;/em&gt;&lt;/a&gt; (Sasaki)&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/Therioaphis_Trifolii&#34;&gt;&lt;em&gt;Therioaphis trifolii&lt;/em&gt; &lt;/a&gt; (Monell) [=&lt;em&gt;maculata&lt;/em&gt;
+(Buckton)]&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/ToxopteraAurantii&#34;&gt;&lt;em&gt;Toxoptera aurantii&lt;/em&gt;&lt;/a&gt;
+ (Boyer de Fonscolombe)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;Blackman, R.L. and Eastop, V.P. 1985. &lt;em&gt;Aphids on the World&amp;rsquo;s Crops: An
+Identification Guide&lt;/em&gt;. Wiley, Chichester, UK.&lt;/p&gt;
+
+&lt;p&gt;Bodenheimer, F.S. and Swirski, E. 1957. &lt;em&gt;The Aphidoidea of the Middle East&lt;/em&gt;.
+The Weizmann Scientific Press of Israel. Jerusalem, Israel.&lt;/p&gt;
+
+&lt;p&gt;Minks, A.K. and Harrewijn, P. 1987-1989. &lt;em&gt;Aphids. Their Biology, Natural
+Enemies and Control&lt;/em&gt;, Parts A-C. Elsevier, Amsterdam.&lt;/p&gt;
+
+&lt;p&gt;Moran, N.A. 1992. The evolution of aphid life cycles. &lt;em&gt;Annual Review of
+Ecology and Systematics&lt;/em&gt; &lt;strong&gt;37&lt;/strong&gt;: 321-348.&lt;/p&gt;
+
+&lt;p&gt;Swirski, E. and Amitai, S. 1999. Annotated list of aphids (Aphidoidea) in
+Israel. &lt;em&gt;Israel Journal of Entomology&lt;/em&gt; &lt;strong&gt;33&lt;/strong&gt;: 1-120.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.inra.fr/Internet/Produits/HYPPZ/ZGLOSS/6g---010.htm&#34;&gt;http://www.inra.fr/Internet/Produits/HYPPZ/ZGLOSS/6g---010.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://tolweb.org/tree?group=Aphidoidea&amp;amp;contgroup=Aphidomorpha&#34;&gt;http://tolweb.org/tree?group=Aphidoidea&amp;amp;contgroup=Aphidomorpha&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Apocryta on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/taxonomy/apocryta/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Mon, 07 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Oncastichus goughi</title>
+      <link>http://localhost:1313/pest/oncastichus_goughi</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/oncastichus_goughi</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Oncastichus goughi&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;Headrick and Lasalle&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Holometabola&#34;&gt;Holometabola&lt;/a&gt;, &lt;a href=&#34;entry/Hymenoptera&#34;&gt;Hymenoptera&lt;/a&gt;, Apocryta, &lt;a href=&#34;entry/Chalcidoidea&#34;&gt;Chalcidoidea&lt;/a&gt;, &lt;a href=&#34;entry/Eulophidae&#34;&gt;Eulophidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Geraldton wax wasp.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: Australia, California and in Israel since the 1990’s.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: The cut-flower crop &lt;em&gt;Chamelaucium uncinatum&lt;/em&gt; (Myrtaceae)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The adult wasps are black, about 1-2 mm in length&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: A major pest of Geraldton wax, &lt;em&gt;Chamelaucium uncinatum&lt;/em&gt; (Myrtaceae) (wax flower). It induces &lt;a href=&#34;entry/Gall&#34;&gt;galls&lt;/a&gt; and plant deformations, rendering the cut-flower crop as well as the foliage unmarketable.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: The eggs are placed within the host plant and the larvae develop in young leaves and stems, inducing the formation of galls and other deformations. Pupation takes place within the gall, the adult bores a round hole through which it emerges. Catches in traps suggest that the pest raises two annual, overlapping generations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Monitoring&lt;/strong&gt;: Green and yellow sticky traps can be used to monitor the occurrence of the pest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cultural control&lt;/strong&gt;: The early cultivars of &lt;em&gt;Chamelaucium uncinatum&lt;/em&gt; that bear smaller leaves are less susceptible to the pest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chemical control&lt;/strong&gt;: &lt;a href=&#34;entry/Avermectin&#34;&gt;Avermectins&lt;/a&gt; and &lt;a href=&#34;entry/Imidacloprid&#34;&gt;imidacloprids&lt;/a&gt;, applied as &lt;a href=&#34;entry/Systemic&#34;&gt;systemics&lt;/a&gt; greatly reduce the pest’s damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Ben-David, Z., Ofer, Y., Kedar, J., Schachner, T and Zaidan, M. 1997. Control
+of the gall wasp &lt;em&gt;Oncastichus goughi&lt;/em&gt;, a new pest of wax flowers. &lt;em&gt;Avivon&lt;/em&gt; 32: 14-16 (in Hebrew).&lt;/p&gt;
+
+&lt;p&gt;Ben-Yakir, D., Gokkes, M., Eitan, S., Klein, Z., Kuzlitzki, W., Ben-David, Z.,
+Lavi, A. and Chen, M. 1997. Biology and control of a gall-forming wasp, a new
+pest of Geraldton wax plant in Israel. &lt;em&gt;Phytoparasitica&lt;/em&gt; 25: 145-146.&lt;/p&gt;
+
+&lt;p&gt;Headrick, D.H., LaSalle, J. and Redak, R.A. 1995. A new genus of Australian
+Tetrastichinae (Hymenoptera, Eulophidae) an introduced pest of &lt;em&gt;Chamelaucium
+uncinatum&lt;/em&gt; (Myrtaceae) in California. &lt;em&gt;Journal of Natural History&lt;/em&gt; 29:
+1029-1036.&lt;/p&gt;
+
+&lt;p&gt;Redak R.A. and Bethke, J.A. 1995. Detection and seasonal occurrence of gall-
+forming wasps (Hymenoptera, Eulophidae) on Geraldton wax plant. &lt;em&gt;Journal of
+Economic Entomology&lt;/em&gt; 88: 387-392.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

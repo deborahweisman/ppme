@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Orchard-Crops on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/taxonomy/orchard-crops/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Mon, 07 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Blank Crop</title>
+      <link>http://localhost:1313/crop/blank_crop</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/crop/blank_crop</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Blank Crop&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;taxonomy (or some other meta data): whatever&lt;/p&gt;
+
+&lt;p&gt;Fill in Crop here.&lt;/p&gt;
+
+&lt;p&gt;(tm) becomes ™&lt;/p&gt;
+
+&lt;p&gt;(r) becomes ®&lt;/p&gt;
+
+&lt;p&gt;(c) becomes ©&lt;/p&gt;
+
+&lt;p&gt;1\/4 becomes ¼. This also works for &amp;frac12; and &amp;frac34;. The fraction can have a trailing &amp;lsquo;th&amp;rsquo; as well, e.g., 1/2th.&lt;/p&gt;
+
+&lt;p&gt;&amp;hellip; and &amp;hellip; becomes …&lt;/p&gt;
+
+&lt;p&gt;-- becomes —&lt;/p&gt;
+
+&lt;p&gt;- becomes –. Embedded dashes are ignored.&lt;/p&gt;
+
+&lt;p&gt;blockquote&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;First line of block quote.
+  Continuation of first block quote line.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;Second level of block quote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;code&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;a = x(45)
+b = a + 2
+c = a * b
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;inline code &lt;code&gt;this is inline code&lt;/code&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

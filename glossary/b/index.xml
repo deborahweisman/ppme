@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>B on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/glossary/b/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Tue, 08 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Baculovirus</title>
+      <link>http://localhost:1313/entry/baculovirus</link>
+      <pubDate>Tue, 08 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/baculovirus</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Baculovirus&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;A virus  that is pathogenic to moth larvae; previously termed &amp;ldquo;nuclear polyhedral virus&amp;rdquo;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

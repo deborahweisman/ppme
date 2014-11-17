@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Aleyrodidae on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/taxonomy/aleyrodidae/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Mon, 07 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Aleurothrixus floccosus</title>
+      <link>http://localhost:1313/pest/aleurothrixus_floccosus</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/pest/aleurothrixus_floccosus</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;&lt;em&gt;Aleurothrixus floccosus&lt;/em&gt;&lt;/strong&gt; &lt;code&gt;(Maskell)&lt;/code&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: Insecta, &lt;a href=&#34;entry/Hemimetabola&#34;&gt;Hemimetabola&lt;/a&gt;, &lt;a href=&#34;entry/Hemiptera&#34;&gt;Hemiptera&lt;/a&gt;, &lt;a href=&#34;entry/Sternorrhyncha&#34;&gt;Sternorrhyncha&lt;/a&gt;, &lt;a href=&#34;entry/Aleyrodidae&#34;&gt;Aleyrodidae&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: Woolly whitefly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Geographical distribution&lt;/strong&gt;: The pest, which is of Asian origin, has spread to Central and North America and then to the Mediterranean region. In Israel it has been present since the early 1990’s. Commonwealth Institute of Entomology Maps #327, 1997 (revised).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: The woolly whitefly is approximately 1.5 mm in length, with a yellow-white body and wings that are covered with a white waxy powder. The legless &lt;a href=&#34;entry/Nymph&#34;&gt;nymphs&lt;/a&gt; are initially green, later becoming brownish. The pupa is covered by very conspicuous waxy (“woolly”) filaments (&lt;a href=&#34;figures/AleurothrixusFloccosus-Fig1&#34;&gt;Figure 1&lt;/a&gt;)&lt;/p&gt;
+
+&lt;figure &gt;
+    &lt;div&gt;
+    
+        &lt;img src=&#34;static/figures/AleurothrixusFlococcus-adult-and-larvae-fs.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption &gt;
+        &lt;p&gt;Figure 1: A colony of Aleurothrixus floccosus on a citrus leaf.&lt;/p&gt;
+        
+    &lt;/figcaption&gt;
+    
+    &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Host plants&lt;/strong&gt;: Plants in about 20 families; &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; is the main crop affected.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: The damage of the woolly whitefly to citrus is mostly due to the large amounts of &lt;a href=&#34;entry/Honeydew&#34;&gt;honeydew&lt;/a&gt; excreted by the nymphs. This honeydew serves as substrate for &lt;a href=&#34;entry/Sooty_mold&#34;&gt;sooty mold&lt;/a&gt; fungi whose dark layers interfere with leaf &lt;a href=&#34;entry/Photosynthesis&#34;&gt;photosynthesis&lt;/a&gt; and thus with tree growth and performance. During heavy infestations the leaves attain a white-black appearance (Figure2),
+ due to the intermittent occurrence of adults and sooty mold.&lt;/p&gt;
+
+&lt;figure &gt;
+    &lt;div&gt;
+    
+        &lt;img src=&#34;static/figures/AleurothrixusFloccosus-Fig2.jpg&#34;  /&gt;
+    
+    
+    &lt;figcaption &gt;
+        &lt;p&gt;Figure 2: Citrus leaves heavily infested by the woolly whitefly.&lt;/p&gt;
+        
+    &lt;/figcaption&gt;
+    
+    &lt;/div&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: Woolly whiteflies deposit their eggs, which are often placed in a circle or a semi-circle, into the underside of young, fully-extended leaves, usually in the inner regions of the trees. In the Mediterranean area the pest completes 5-6 annual generations, its numbers peaking during mid-summer.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sampling&lt;/strong&gt;: An index of occupation (from 0 to 10) was linearly related to the proportion of leaf undersurface occupied by the pest, thus being a reliable and time-saving sampling method. Examining 150 leaves achieves the desired the relative variation level of 0.25 for most population densities found in Spanish commercial citrus groves.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;entry/Biological_control&#34;&gt;&lt;strong&gt;Biological control&lt;/strong&gt;&lt;/a&gt;: The pest is usually controlled by the introduced &lt;a href=&#34;entry/Hymenoptera&#34;&gt;hymenopterous&lt;/a&gt; &lt;a href=&#34;entry/Endoparasitoid&#34;&gt;endoparasitoid&lt;/a&gt; &lt;em&gt;Cales noacki&lt;/em&gt; &lt;code&gt;Howard&lt;/code&gt; (&lt;a href=&#34;entry/Ephelinidae&#34;&gt;Aphelinidae&lt;/a&gt;). Another important natural enemy is the &lt;a href=&#34;entry/Coccinellidae&#34;&gt;coccinellid&lt;/a&gt; &lt;a href=&#34;entry/Coleoptera&#34;&gt;beetle&lt;/a&gt; &lt;em&gt;Delphastus pusilus&lt;/em&gt; &lt;code&gt;Le Conte&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Argov, Y. 1994. The woolly whitefly, a new pest in Israel. &lt;em&gt;Alon Ha’notea&lt;/em&gt;
+48: 290-292 (in Hebrew with an English abstract).&lt;/p&gt;
+
+&lt;p&gt;Soto, A., Ohlenschlaeger, F. and Garcia-Mari, F. 2002. Distribution and
+sampling of the whiteflies &lt;em&gt;Aleurothrixus floccosus, Dialeurodes citri _and&lt;/em&gt;
+Parabemisia myricae &lt;em&gt;(Homoptera : Aleyrodidae) in citrus in Spain.&lt;/em&gt; &lt;em&gt;Journal of
+Economic Entomology&lt;/em&gt; 95: 167-173.&lt;/p&gt;
+
+&lt;p&gt;Ulusoy M.R., Vatansever, G., Erkilic, L. and Uygun, N. 2003. Studies on
+&lt;em&gt;Aleurothrixus floccosus _(Maskell) (Homoptera, Aleyrodidae) and its
+parasitoid,&lt;/em&gt; Cales noacki &lt;em&gt;Howard (Hymenoptera, Aphelinidae) in the East
+Mediterranean region of Turkey.&lt;/em&gt;   &lt;em&gt;Anzeiger für Schadlingskunde&lt;/em&gt; 76:
+163-169.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;: &lt;a href=&#34;http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aleflo.htm&#34;&gt; http://www.inra.fr/Internet/Produits/HYPPZ/RAVAGEUR/6aleflo.htm&lt;/a&gt;&lt;/p&gt;
+
+&lt;!--
+
+**Insert A Name Of A Person To Contact:  [Insert Again The Same E-mail Address](mailto:Insert E-mail Address Of That Person)**
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

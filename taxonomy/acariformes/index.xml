@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Acariformes on Plant Pests of the Middle East </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/taxonomy/acariformes/index.xml</link>
+    <language>en-us</language>
+    <author>Uri Gerson</author>
+    <copyright>Copyright (c) 2008 - 2014, Steve Francia; all rights reserved.</copyright>
+    <updated>Mon, 07 Jul 2014 00:00:00 UTC</updated>
+    
+    <item>
+      <title>Tenuipalpidae</title>
+      <link>http://localhost:1313/entry/tenuipalpidae</link>
+      <pubDate>Mon, 07 Jul 2014 00:00:00 UTC</pubDate>
+      <author>Uri Gerson</author>
+      <guid>http://localhost:1313/entry/tenuipalpidae</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;&lt;strong&gt;Tenuipalpidae&lt;/strong&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;Taxonomic placing&lt;/strong&gt;: &lt;a href=&#34;entry/Acari&#34;&gt;Acari&lt;/a&gt;, &lt;a href=&#34;entry/Acariformes&#34;&gt;Acariformes&lt;/a&gt;, &lt;a href=&#34;entry/Prostigmata&#34;&gt; Prostigmata&lt;/a&gt;, &lt;a href=&#34;entry/Tetranychoidea&#34;&gt;Tetranychoidea&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Common name&lt;/strong&gt;: False spider mites, flat mites.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;pest/images/Insert Small-Image File&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Economic importance&lt;/strong&gt;: All Tenuipalpidae are phytophagous and several are pests of crops, including (in the Middle East) &lt;a href=&#34;crop/Citrus&#34;&gt;citrus&lt;/a&gt; and &lt;a href=&#34;crop/Grapes&#34;&gt;grapes&lt;/a&gt;. Their feeding causes leaf mottling and necrosis, fruit blistering and deformation, and may reduce yields. In rare cases false spider mites induce the formation of &lt;a href=&#34;entry/Gall&#34;&gt;galls&lt;/a&gt;. In Florida and in South America several species of the genus &lt;em&gt;Brevipalpus&lt;/em&gt; transmit plant viruses (e.g. leprosis).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Morphology&lt;/strong&gt;: False spider mites are usually red to yellow, with flat bodies, about 0.3-0.4 mm in length. They have strongly-recurved whip-like &lt;a href=&#34;entry/Chelicerae&#34;&gt;chelicerae&lt;/a&gt;, &lt;a href=&#34;entry/Palpi&#34;&gt;palpi&lt;/a&gt; with 1-5 segments, whose tarsus lacks a &lt;a href=&#34;entry/Thumb_claw&#34;&gt;thumb-claw&lt;/a&gt; complex and short legs with sometimes modified &lt;a href=&#34;entry/Empodium&#34;&gt;empodia&lt;/a&gt;. The dorsum usually bears a reduced number of setae and two pairs of eyes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ecology&lt;/strong&gt;: The Tenuipalpidae are sensitive to arid conditions, usually preferring to feed on the lower sides of leaves near the veins, at protected sites on fruits, also occurring on plant bark and even in galls. Most species have a narrow host plant range, but a few are very polyphagous.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Life cycle&lt;/strong&gt;: Most investigated tenuipalpids require 3-4 weeks at ca 25°C to complete a generation, and usually deposit about 30 to 50 eggs/female. Reproduction is usually by &lt;a href=&#34;entry/Arrhenotokous&#34;&gt;arrhenotoky&lt;/a&gt;, although a few species are &lt;a href=&#34;entry/Parthenogenesis&#34;&gt;parthenogenetic&lt;/a&gt;. One cosmopolitan species, &lt;em&gt;Brevipalpus phoenicis&lt;/em&gt;&lt;code&gt;(Geijskes)&lt;/code&gt;, appears to consist only of haploid females.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;False spider mites included in this compendium&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/brevipalpus_obovatus&#34;&gt;&lt;em&gt;Brevipalpus obovatus&lt;/em&gt;&lt;/a&gt;&lt;code&gt;(Donnadieu)&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;pest/tenuipalpus_granati&#34;&gt;&lt;em&gt;Tenuipalpus granati&lt;/em&gt;&lt;/a&gt;&lt;code&gt;Sayed&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Childers, C.C. and Derrick, K.S. 2003. &lt;em&gt;Brevipalpus&lt;/em&gt; mites as vectors of
+unassigned rhabdoviruses in various crops. &lt;em&gt;Experimental and Applied
+Acarology&lt;/em&gt; 30: 1-3.&lt;/p&gt;
+
+&lt;p&gt;Jeppson, L.R ., Keifer, H.H. and Baker, E.W. 1975. &lt;em&gt;Mites Injurious to
+Economic Plants&lt;/em&gt;. University California Press, Berkeley.&lt;/p&gt;
+
+&lt;p&gt;Meyer Smith, M.K.P. 1979. The Tenuipalpidae (Acari) of Africa with keys to the
+world genera. &lt;em&gt;Entomology Memoir, Department of Agricultural Technical
+Services, Republic of South Africa&lt;/em&gt; 50: 1-135.&lt;/p&gt;
+
+&lt;p&gt;Weeks, A.R., Marec, F. and Breeuwer, J.A.J. 2001. A mite that consists
+entirely of haploid females. &lt;em&gt;Science&lt;/em&gt; 292: 2479-2482.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Websites&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.sel.barc.usda.gov/acari/content/brevipalpus/brevi1.html&#34;&gt;http://www.sel.barc.usda.gov/acari/content/brevipalpus/brevi1.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;!---
+
+Insert A Name Of A Person To Contact:  [ Insert Again The Same E-mail
+Address](mailto:Insert E-mail Address Of That Person)
+
+--&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
